@@ -1,0 +1,2915 @@
+#NAME ۩۝۩๑ٽLUCKY-IPTVٽ๑۩۝۩
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13132.ts
+#DESCRIPTION ---- < LUCKY ITALIA > ---
+#SERVICE 1:0:19:d49:1450:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2399.ts
+#DESCRIPTION Rai 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22929.ts
+#DESCRIPTION Rai 2 HD
+#SERVICE 1:0:19:4257:2f44:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2401.ts
+#DESCRIPTION Rai 3 HD
+#SERVICE 1:0:1:3:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3813.ts
+#DESCRIPTION Rete 4 HD
+#SERVICE 1:0:1:2:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3811.ts
+#DESCRIPTION Canale 5 HD
+#SERVICE 1:0:1:1:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3812.ts
+#DESCRIPTION Italia 1 HD
+#SERVICE 1:0:19:2EF:107:217C:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3814.ts
+#DESCRIPTION La 7 HD
+#SERVICE 1:0:1:e24:708:c8:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2435.ts
+#DESCRIPTION MTV Tv8
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/1032.ts
+#DESCRIPTION ---- < SKY CINEMA > ---
+#SERVICE 1:0:1:2b5d:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3806.ts
+#DESCRIPTION Sky Cinema 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22347.ts
+#DESCRIPTION Sky Cinema +1 HD
+#SERVICE 1:0:1:2b63:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4148.ts
+#DESCRIPTION Sky Cinema +24 HD
+#SERVICE 1:0:1:2dcc:1a2c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3820.ts
+#DESCRIPTION Sky Cinema Hits HD
+#SERVICE 1:0:1:2b61:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3237.ts
+#DESCRIPTION SKY Cinema Family HD
+#SERVICE 1:0:19:2CF4:206C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18693.ts
+#DESCRIPTION Sky Cinema Family HD  +1
+#SERVICE 1:0:1:2B6B:19C8:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3807.ts
+#DESCRIPTION Sky Cinema Max HD
+#SERVICE 1:0:19:1E5E:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18692.ts
+#DESCRIPTION Sky Cinema Max HD  +1
+#SERVICE 1:0:1:2b73:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3821.ts
+#DESCRIPTION Sky Cinema Passion HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22348.ts
+#DESCRIPTION Sky Cinema Cult HD
+#SERVICE 1:0:1:2b65:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3663.ts
+#DESCRIPTION Sky CInema Classic HD
+#SERVICE 1:0:1:2dcd:1a2c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3236.ts
+#DESCRIPTION Sky Cinema Comedy HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/17975.ts
+#DESCRIPTION ---- < PREMIUM CINEMA > ---
+#SERVICE 1:0:119:1bcd:384:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2450.ts
+#DESCRIPTION Premium Cinema 1 HD
+#SERVICE 1:0:11:13fb:3b6:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2518.ts
+#DESCRIPTION Premium Cinema  +24
+#SERVICE 1:0:119:1bd1:384:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2517.ts
+#DESCRIPTION Premium Cinema 2 HD
+#SERVICE 1:0:11:7a:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2519.ts
+#DESCRIPTION Premium Cinema 2  +24
+#SERVICE 1:0:11:13f9:3b6:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2462.ts
+#DESCRIPTION Premium Studio Universal
+#SERVICE 1:0:11:140b:3b6:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2453.ts
+#DESCRIPTION Premium Cinema Emotion
+#SERVICE 1:0:11:c4e:3a2:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2452.ts
+#DESCRIPTION Premium Cinema Comedy
+#SERVICE 1:0:19:1E:2F44:13E:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13608.ts
+#DESCRIPTION Paramount Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22464.ts
+#DESCRIPTION Premium Cinema Energy HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22465.ts
+#DESCRIPTION Premium Cinema Energy +24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22899.ts
+#DESCRIPTION ---- < PRIMAFILA LIVE > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22879.ts
+#DESCRIPTION VETRINA PRIMAFILA HD LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22898.ts
+#DESCRIPTION Prima Fila 1 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22887.ts
+#DESCRIPTION Prima Fila 2 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22886.ts
+#DESCRIPTION Prima Fila 3 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22885.ts
+#DESCRIPTION Prima Fila 4 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22884.ts
+#DESCRIPTION Prima Fila 5 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22883.ts
+#DESCRIPTION Prima Fila 6 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22882.ts
+#DESCRIPTION Prima Fila 7 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22881.ts
+#DESCRIPTION Prima Fila 8 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22880.ts
+#DESCRIPTION Prima Fila 9 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22897.ts
+#DESCRIPTION Prima Fila 10 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22896.ts
+#DESCRIPTION Prima Fila 11 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22895.ts
+#DESCRIPTION Prima Fila 12 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22894.ts
+#DESCRIPTION Prima Fila 13 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22893.ts
+#DESCRIPTION Prima Fila 14 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22892.ts
+#DESCRIPTION Prima Fila 15 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22891.ts
+#DESCRIPTION Prima Fila 16 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22890.ts
+#DESCRIPTION Prima Fila 17 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22889.ts
+#DESCRIPTION Prima Fila 18 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22888.ts
+#DESCRIPTION Prima Fila 19 LIVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/1039.ts
+#DESCRIPTION ---- < INTRATTENIMENTO SKY > ---
+#SERVICE 1:0:19:1040:1D4C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12007.ts
+#DESCRIPTION Sky 3D
+#SERVICE 1:0:1:2DC6:1A2C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3808.ts
+#DESCRIPTION Sky Uno HD
+#SERVICE 1:0:19:37BA:14B4:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18705.ts
+#DESCRIPTION Sky Uno HD  +1
+#SERVICE 1:0:1:584:320:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3805.ts
+#DESCRIPTION Sky Atlantic HD
+#SERVICE 1:0:19:2D00:206C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18711.ts
+#DESCRIPTION Sky Atlantic HD  +1
+#SERVICE 1:0:1:2FB2:2DB4:13E:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16158.ts
+#DESCRIPTION Sposa HD
+#SERVICE 1:0:1:1fba:189c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3801.ts
+#DESCRIPTION Fox HD
+#SERVICE 1:0:1:FBD:1E14:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18707.ts
+#DESCRIPTION Fox HD  +1
+#SERVICE 1:0:1:1FC5:189C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3802.ts
+#DESCRIPTION Fox Life HD
+#SERVICE 1:0:1:FC2:1E14:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18708.ts
+#DESCRIPTION Fox Life HD  +1
+#SERVICE 1:0:1:1fcb:189c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2424.ts
+#DESCRIPTION Fox Crime HD
+#SERVICE 1:0:1:FC1:1E14:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18709.ts
+#DESCRIPTION Fox Crime HD  +1
+#SERVICE 1:0:19:DCE:1AF4:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21666.ts
+#DESCRIPTION Fox Comedy HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22467.ts
+#DESCRIPTION FOX COMEDY +1
+#SERVICE 1:0:19:2D06:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21667.ts
+#DESCRIPTION Fox Animation HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21105.ts
+#DESCRIPTION Fox Animation +1
+#SERVICE 1:0:1:5a3:320:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2411.ts
+#DESCRIPTION AXN HD
+#SERVICE 1:0:1:2B60:2260:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21665.ts
+#DESCRIPTION AXN Sci Fi
+#SERVICE 1:0:19:37A9:1AF4:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3649.ts
+#DESCRIPTION Crime Investigation HD
+#SERVICE 1:0:1:57C:320:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/17130.ts
+#DESCRIPTION Comedy Central
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22354.ts
+#DESCRIPTION ---- < INTRATTENIMENTO PREMIUM > ---
+#SERVICE 1:0:119:1fd7:32a:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2521.ts
+#DESCRIPTION Premium Action HD
+#SERVICE 1:0:11:7b:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2451.ts
+#DESCRIPTION Premium Cinema Action  24
+#SERVICE 1:0:119:1fc5:32a:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2522.ts
+#DESCRIPTION Premium Crime HD
+#SERVICE 1:0:11:13fc:3b6:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2455.ts
+#DESCRIPTION Premium Crime  + 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22466.ts
+#DESCRIPTION Premium Investigation Discovery
+#SERVICE 1:0:11:13f8:3b6:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2461.ts
+#DESCRIPTION Premium Stories
+#SERVICE 1:0:1:13FF:3B6:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13141.ts
+#DESCRIPTION Premium Stories + 24
+#SERVICE 1:0:11:13f7:3b6:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2460.ts
+#DESCRIPTION Premium Joy
+#SERVICE 1:0:1:13FE:3B6:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13140.ts
+#DESCRIPTION Premium Joy + 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22352.ts
+#DESCRIPTION Premium Extra 1 ( GF )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22353.ts
+#DESCRIPTION Premium Extra 2 ( GF )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23293.ts
+#DESCRIPTION ---- < TIVUSAT > ---
+#SERVICE 1:0:1:2c2a:251c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2409.ts
+#DESCRIPTION Alice
+#SERVICE 1:0:19:37ad:14b4:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2417.ts
+#DESCRIPTION Dmax
+#SERVICE 1:0:1:E2A:708:C8:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12838.ts
+#DESCRIPTION Dee Jay Tv  1
+#SERVICE 1:0:1:2b66:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2414.ts
+#DESCRIPTION Cielo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2418.ts
+#DESCRIPTION E! Enternament
+#SERVICE 1:0:1:e47:16a8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3223.ts
+#DESCRIPTION Giallo
+#SERVICE 1:0:1:faf:3ac:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2514.ts
+#DESCRIPTION Iris
+#SERVICE 1:0:1:9a:389:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2421.ts
+#DESCRIPTION Fine Living
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21070.ts
+#DESCRIPTION Espansione TV
+#SERVICE 1:0:19:DB7:1AF4:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3658.ts
+#DESCRIPTION Gambero Rosso HD
+#SERVICE 1:0:1:7:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2516.ts
+#DESCRIPTION La 5
+#SERVICE 1:0:1:9:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2429.ts
+#DESCRIPTION Italia 2
+#SERVICE 1:0:19:2F0:107:217C:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2431.ts
+#DESCRIPTION La 7d
+#SERVICE 1:0:1:2fb2:2db4:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2434.ts
+#DESCRIPTION Mediaset Extra
+#SERVICE 1:0:1:1c55:1c20:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2433.ts
+#DESCRIPTION Marco Polo
+#SERVICE 1:0:1:2142:3070:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2407.ts
+#DESCRIPTION Rai 4
+#SERVICE 1:0:1:7:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2408.ts
+#DESCRIPTION Rai 5
+#SERVICE 1:0:1:2136:3070:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2464.ts
+#DESCRIPTION Rai Movie
+#SERVICE 1:0:1:4535:30D4:13E:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2466.ts
+#DESCRIPTION Rai Premium
+#SERVICE 1:0:1:10E4:1644:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2468.ts
+#DESCRIPTION Real Time
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3226.ts
+#DESCRIPTION Motor TV
+#SERVICE 1:0:1:d4e:1450:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2496.ts
+#DESCRIPTION Rai Scuola
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23291.ts
+#DESCRIPTION Rai Scuola HD
+#SERVICE 1:0:1:d50:1450:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2497.ts
+#DESCRIPTION Rai Senato
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23292.ts
+#DESCRIPTION Pescare Cacciare TV
+#SERVICE 1:0:1:5BD:320:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12834.ts
+#DESCRIPTION Real Time +1 HD
+#SERVICE 1:0:1:2bac:19c8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2515.ts
+#DESCRIPTION TV 2000
+#SERVICE 1:0:1:a:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2489.ts
+#DESCRIPTION Top Crime
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2499.ts
+#DESCRIPTION Tv Globo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/1033.ts
+#DESCRIPTION ---- < SKY SPORT > ---
+#SERVICE 1:0:1:CEB:1518:13E:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14099.ts
+#DESCRIPTION Rai Storia
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23290.ts
+#DESCRIPTION Rai Storia HD
+#SERVICE 1:0:1:2ab1:1838:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2483.ts
+#DESCRIPTION Sky Sport 24 HD
+#SERVICE 1:0:1:ce9:1518:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2467.ts
+#DESCRIPTION Rai Sport 1
+#SERVICE 1:0:19:1E54:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/8640.ts
+#DESCRIPTION Sky Sport Plus HD
+#SERVICE 1:0:1:4533:30D4:13E:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13609.ts
+#DESCRIPTION Rai Sport 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22462.ts
+#DESCRIPTION Rai Sport 2 HD
+#SERVICE 1:0:1:2aa8:1838:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2480.ts
+#DESCRIPTION Sky Sport 1 HD
+#SERVICE 1:0:1:2aa9:1838:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2481.ts
+#DESCRIPTION Sky Sport 2 HD
+#SERVICE 1:0:1:2B3C:1900:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/7156.ts
+#DESCRIPTION Sport Italia
+#SERVICE 1:0:19:1C50:206C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2482.ts
+#DESCRIPTION Sky Sport 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23286.ts
+#DESCRIPTION Sky Sport Mix HD
+#SERVICE 1:0:19:1E4F:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3109.ts
+#DESCRIPTION Fox Sports HD
+#SERVICE 1:0:1:2d5a:2260:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2478.ts
+#DESCRIPTION Sky Sport F1 HD
+#SERVICE 1:0:1:2aa2:1838:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2479.ts
+#DESCRIPTION Sky Moto GP HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22461.ts
+#DESCRIPTION WWE Wrestling HD
+#SERVICE 1:0:1:2CA1:2580:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16159.ts
+#DESCRIPTION Class Horse Tv
+#SERVICE 1:0:19:3311:190:13E:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4156.ts
+#DESCRIPTION Eurosport 1 HD
+#SERVICE 1:0:19:1036:1D4C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4157.ts
+#DESCRIPTION Eurosport 2 HD
+#SERVICE 1:0:1:7d3:22c4:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2513.ts
+#DESCRIPTION Supertennis HD
+#SERVICE 1:0:11:65:791A:217C:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3666.ts
+#DESCRIPTION Nuvolari
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22463.ts
+#DESCRIPTION Poker Central
+#SERVICE 1:0:1:110C:1644:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13702.ts
+#DESCRIPTION Poker Italia 24
+#SERVICE 1:0:19:1091:2008:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13859.ts
+#DESCRIPTION Bike Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20651.ts
+#DESCRIPTION Bike Channel  +1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22901.ts
+#DESCRIPTION Fight Network italia
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/1359.ts
+#DESCRIPTION ---- < SKY CALCIO  > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22900.ts
+#DESCRIPTION Sky Calcio INFO
+#SERVICE 1:0:1:2aaa:1838:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2484.ts
+#DESCRIPTION Sky Supercalcio HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22321.ts
+#DESCRIPTION Sky Supercalcio HD Backup
+#SERVICE 1:0:1:2dba:1a2c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2470.ts
+#DESCRIPTION Sky Calcio 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22322.ts
+#DESCRIPTION Sky Calcio 1 HD Backup
+#SERVICE 1:0:1:2bcf:1a90:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2471.ts
+#DESCRIPTION Sky Calcio 2 HD
+#SERVICE 1:0:1:2bd1:1a90:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2472.ts
+#DESCRIPTION Sky Calcio 3 HD
+#SERVICE 1:0:19:108A:2008:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4160.ts
+#DESCRIPTION Sky Calcio 4 HD
+#SERVICE 1:0:19:F46:2198:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4511.ts
+#DESCRIPTION Sky Calcio 5 HD
+#SERVICE 1:0:19:F48:2198:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4512.ts
+#DESCRIPTION Sky Calcio 6 HD
+#SERVICE 1:0:19:1E5F:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/6107.ts
+#DESCRIPTION Sky Calcio 7 HD
+#SERVICE 1:0:19:1E5C:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/8497.ts
+#DESCRIPTION Sky Calcio 8 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23284.ts
+#DESCRIPTION Sky Calcio 9
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23285.ts
+#DESCRIPTION Sky Calcio 10
+#SERVICE 1:0:1:2CFE:15E0:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/8620.ts
+#DESCRIPTION Juventus TV
+#SERVICE 1:0:1:2CC0:2580:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/8618.ts
+#DESCRIPTION Milan Channel
+#SERVICE 1:0:1:2cc0:2580:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4215.ts
+#DESCRIPTION Inter Channel
+#SERVICE 1:0:19:10A8:2008:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/8622.ts
+#DESCRIPTION Roma TV
+#SERVICE 1:0:1:1FB0:189C:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12211.ts
+#DESCRIPTION Lazio Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22355.ts
+#DESCRIPTION ---- < PREMIUM SPORT > ---
+#SERVICE 1:0:119:C44:3A2:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16137.ts
+#DESCRIPTION Premium Sport 1 FHD
+#SERVICE 1:0:19:C43:3A2:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16138.ts
+#DESCRIPTION Premium Sport 2 FHD
+#SERVICE 1:0:119:C44:3A2:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3664.ts
+#DESCRIPTION Premium Sport 1 HD
+#SERVICE 1:0:19:C43:3A2:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12840.ts
+#DESCRIPTION Premium Sport 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16139.ts
+#DESCRIPTION Premium Sport 1
+#SERVICE 1:0:1:65:385:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16140.ts
+#DESCRIPTION Premium Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22356.ts
+#DESCRIPTION ---- < PREMIUM CALCIO > ---
+#SERVICE 1:0:11:65:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2490.ts
+#DESCRIPTION Premium Calcio
+#SERVICE 1:0:119:c43:3a2:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2448.ts
+#DESCRIPTION Premium Calcio HD
+#SERVICE 1:0:1:66:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/5297.ts
+#DESCRIPTION Premium Calcio 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13123.ts
+#DESCRIPTION Premium Calcio 1 HD
+#SERVICE 1:0:11:67:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2442.ts
+#DESCRIPTION Premium Calcio 2 HD
+#SERVICE 1:0:1:68:385:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13118.ts
+#DESCRIPTION Premium Calcio 3 HD
+#SERVICE 1:0:1:69:385:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13119.ts
+#DESCRIPTION Premium Calcio 4 HD
+#SERVICE 1:0:1:6A:385:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13120.ts
+#DESCRIPTION Premium Calcio 5 HD
+#SERVICE 1:0:1:6B:385:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13121.ts
+#DESCRIPTION Premium Calcio 6 HD
+#SERVICE 1:0:1:B3:385:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13122.ts
+#DESCRIPTION Premium Calcio 7 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/1036.ts
+#DESCRIPTION ---- < CULTURA > ---
+#SERVICE 1:0:1:e39:16a8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2437.ts
+#DESCRIPTION National Geographic HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2438.ts
+#DESCRIPTION Nat Geo People HD
+#SERVICE 1:0:1:1fbe:189c:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2439.ts
+#DESCRIPTION Nat Geo Wild HD
+#SERVICE 1:0:1:2c90:2580:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2410.ts
+#DESCRIPTION Animal Planet
+#SERVICE 1:0:19:2B13:1900:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3824.ts
+#DESCRIPTION Discovery HD
+#SERVICE 1:0:1:5bb:320:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3825.ts
+#DESCRIPTION Discovery Science HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3817.ts
+#DESCRIPTION Discovery T&L HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12902.ts
+#DESCRIPTION Dmax +1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/17131.ts
+#DESCRIPTION Classica HD
+#SERVICE 1:0:1:3BF0:64:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3823.ts
+#DESCRIPTION Caccia e Pesca
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12197.ts
+#DESCRIPTION Pesca e Caccia
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16160.ts
+#DESCRIPTION Italia Fishing
+#SERVICE 1:0:1:e4b:16a8:fbff:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2422.ts
+#DESCRIPTION Focus
+#SERVICE 1:0:19:DB9:1AF4:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4159.ts
+#DESCRIPTION History HD
+#SERVICE 1:0:19:2D02:2774:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/4158.ts
+#DESCRIPTION Explora HD
+#SERVICE 1:0:19:2B42:1900:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2524.ts
+#DESCRIPTION Sky Arte HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22928.ts
+#DESCRIPTION ---- < CANALI CON RITARDO DI 1H > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23064.ts
+#DESCRIPTION Rai 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23065.ts
+#DESCRIPTION Rai 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23066.ts
+#DESCRIPTION Rai 3 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23067.ts
+#DESCRIPTION Rete 4 PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23068.ts
+#DESCRIPTION Canale 5 PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23069.ts
+#DESCRIPTION Italia 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23070.ts
+#DESCRIPTION LA 7 HD piu 1H
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23071.ts
+#DESCRIPTION LA 7d piu 1H
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23072.ts
+#DESCRIPTION TV 8  HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23135.ts
+#DESCRIPTION Animal Planet PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23099.ts
+#DESCRIPTION Axn HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23100.ts
+#DESCRIPTION Axn Sci Fi HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23121.ts
+#DESCRIPTION Bike Channel HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23141.ts
+#DESCRIPTION Caccia e Pesca PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23139.ts
+#DESCRIPTION Classica HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23102.ts
+#DESCRIPTION Comedy Central HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23101.ts
+#DESCRIPTION Crime Investigation HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23136.ts
+#DESCRIPTION Discovery HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23107.ts
+#DESCRIPTION Discovery Investigation HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23137.ts
+#DESCRIPTION Discovery Sci HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23138.ts
+#DESCRIPTION Discovery T&L HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23119.ts
+#DESCRIPTION Eurosport 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23120.ts
+#DESCRIPTION Eurosport 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23145.ts
+#DESCRIPTION Explora HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23143.ts
+#DESCRIPTION Focus HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23098.ts
+#DESCRIPTION Fox Animation HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23097.ts
+#DESCRIPTION Fox Comedy HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23096.ts
+#DESCRIPTION Fox Crime HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23094.ts
+#DESCRIPTION Fox HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23095.ts
+#DESCRIPTION Fox Life HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23116.ts
+#DESCRIPTION Fox Sport HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23144.ts
+#DESCRIPTION History HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23142.ts
+#DESCRIPTION Italian Fishing PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23132.ts
+#DESCRIPTION Nat Geo HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23133.ts
+#DESCRIPTION Nat Geo People HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23134.ts
+#DESCRIPTION Nat Geo Wild HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23089.ts
+#DESCRIPTION Paramont HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23140.ts
+#DESCRIPTION Pesca e Caccia PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23104.ts
+#DESCRIPTION Premium Action 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23103.ts
+#DESCRIPTION Premium Action HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23130.ts
+#DESCRIPTION Premium Calcio 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23131.ts
+#DESCRIPTION Premium Calcio 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23129.ts
+#DESCRIPTION Premium Calcio PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23082.ts
+#DESCRIPTION Premium Cinema 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23085.ts
+#DESCRIPTION Premium Cinema 2 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23083.ts
+#DESCRIPTION Premium Cinema 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23084.ts
+#DESCRIPTION Premium Cinema 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23088.ts
+#DESCRIPTION Premium Cinema Comedy PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23087.ts
+#DESCRIPTION Premium Cinema Emotion HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23090.ts
+#DESCRIPTION Premium Cinema Energy HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23106.ts
+#DESCRIPTION Premium Crime 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23105.ts
+#DESCRIPTION Premium Crime HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23111.ts
+#DESCRIPTION Premium Joy 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23110.ts
+#DESCRIPTION Premium Joy HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23128.ts
+#DESCRIPTION Premium Sport 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23127.ts
+#DESCRIPTION Premium Sport HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23109.ts
+#DESCRIPTION Premium Stories 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23108.ts
+#DESCRIPTION Premium Stories HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23086.ts
+#DESCRIPTION Premium Studio Universal HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23091.ts
+#DESCRIPTION Sky 3D HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23146.ts
+#DESCRIPTION Sky Arte HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23093.ts
+#DESCRIPTION Sky Atlantic HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23124.ts
+#DESCRIPTION Sky Calcio 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23125.ts
+#DESCRIPTION Sky Calcio 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23126.ts
+#DESCRIPTION Sky Calcio 3 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23073.ts
+#DESCRIPTION Sky Cinema 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23074.ts
+#DESCRIPTION Sky Cinema 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23080.ts
+#DESCRIPTION Sky Cinema Classic HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23081.ts
+#DESCRIPTION Sky Cinema Comedy HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23079.ts
+#DESCRIPTION Sky Cinema Cult HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23076.ts
+#DESCRIPTION Sky Cinema Family HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23075.ts
+#DESCRIPTION Sky Cinema Hits PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23077.ts
+#DESCRIPTION Sky Cinema Max HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23078.ts
+#DESCRIPTION Sky Cinema Passion HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23113.ts
+#DESCRIPTION Sky Sport 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23114.ts
+#DESCRIPTION Sky Sport 2 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23112.ts
+#DESCRIPTION Sky Sport 24 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23115.ts
+#DESCRIPTION Sky Sport 3 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23118.ts
+#DESCRIPTION Sky Sport Formula 1 HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23117.ts
+#DESCRIPTION Sky Sport MotoGP HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23122.ts
+#DESCRIPTION Sky SuperCalcio HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23123.ts
+#DESCRIPTION Sky SuperCalcio HD PIU2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23092.ts
+#DESCRIPTION Sky Uno HD PIU1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22459.ts
+#DESCRIPTION ---- < LUCKY EXTRA ULTRA HD > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22414.ts
+#DESCRIPTION Sky Cinema 1 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22416.ts
+#DESCRIPTION Sky Cinema +1 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22415.ts
+#DESCRIPTION Sky Cinema  24 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22409.ts
+#DESCRIPTION Sky Cinema Hits UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22410.ts
+#DESCRIPTION Sky Cinema Family UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22411.ts
+#DESCRIPTION Sky Cinema Family  1 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22408.ts
+#DESCRIPTION Sky Cinema Max  1 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22407.ts
+#DESCRIPTION Sky Cinema Passion UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22412.ts
+#DESCRIPTION Sky Cinema Cult UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22413.ts
+#DESCRIPTION Sky Cinema Comedy UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22403.ts
+#DESCRIPTION Sky Sport 24 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22404.ts
+#DESCRIPTION Sky Sport 1 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22402.ts
+#DESCRIPTION Sky Sport 3 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22418.ts
+#DESCRIPTION Fox Sports UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22405.ts
+#DESCRIPTION Sky Moto GP UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22406.ts
+#DESCRIPTION Sky Formula 1 UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22417.ts
+#DESCRIPTION Premium Sport UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22419.ts
+#DESCRIPTION Fox Life UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22420.ts
+#DESCRIPTION Fox Crime UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22421.ts
+#DESCRIPTION Fox Animation UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22422.ts
+#DESCRIPTION CI Crime Investigation UltraHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22460.ts
+#DESCRIPTION ---- < LUCKY EXTRA SD > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22450.ts
+#DESCRIPTION Rai 1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22449.ts
+#DESCRIPTION Rai 2 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22448.ts
+#DESCRIPTION Rai 3 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22447.ts
+#DESCRIPTION Rete 4 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22458.ts
+#DESCRIPTION Canale 5 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22451.ts
+#DESCRIPTION Italia 1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22446.ts
+#DESCRIPTION RSI La1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22445.ts
+#DESCRIPTION RSI La2 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22442.ts
+#DESCRIPTION Sky Cinema  1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22440.ts
+#DESCRIPTION Sky Cinema 1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22441.ts
+#DESCRIPTION Sky Cinema  24 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22434.ts
+#DESCRIPTION Sky Cinema Hits SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22435.ts
+#DESCRIPTION Sky Cinema Family SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22436.ts
+#DESCRIPTION Sky Cinema Family  1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22432.ts
+#DESCRIPTION Sky Cinema Max SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22433.ts
+#DESCRIPTION Sky Cinema Max  1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22431.ts
+#DESCRIPTION Sky Cinema Passion SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22437.ts
+#DESCRIPTION Sky Cinema Cult SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22439.ts
+#DESCRIPTION Sky Cinema Classic SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22438.ts
+#DESCRIPTION Sky Cinema Comedy SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22444.ts
+#DESCRIPTION Sky Atlantic SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22426.ts
+#DESCRIPTION Sky Sport 24 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22424.ts
+#DESCRIPTION Sky Sport Plus SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22428.ts
+#DESCRIPTION Sky Sport 1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22427.ts
+#DESCRIPTION Sky Sport 2 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22425.ts
+#DESCRIPTION Sky Sport 3 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22423.ts
+#DESCRIPTION Sky Supercalcio SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22443.ts
+#DESCRIPTION Sky Calcio 1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22430.ts
+#DESCRIPTION Sky Formula 1 SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22429.ts
+#DESCRIPTION Sky Moto GP SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22452.ts
+#DESCRIPTION Fox Sports SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22453.ts
+#DESCRIPTION Fox SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22454.ts
+#DESCRIPTION Fox Life SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22455.ts
+#DESCRIPTION Fox Crime SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22456.ts
+#DESCRIPTION Fox Comedy SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22457.ts
+#DESCRIPTION Fox Animation SD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16141.ts
+#DESCRIPTION ---- < CALCIO INTERNAZIONALE > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19803.ts
+#DESCRIPTION [ AR ] Bein Sports 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19802.ts
+#DESCRIPTION [ AR ] Bein Sports 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19801.ts
+#DESCRIPTION [ AR ] Bein Sports 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19800.ts
+#DESCRIPTION [ AR ] Bein Sports 4 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19799.ts
+#DESCRIPTION [ AR ] Bein Sports 5 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19798.ts
+#DESCRIPTION [ AR ] Bein Sports 6 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19797.ts
+#DESCRIPTION [ AR ] Bein Sports 7 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19796.ts
+#DESCRIPTION [ AR ] Bein Sports 8 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19795.ts
+#DESCRIPTION [ AR ] Bein Sports 9 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19794.ts
+#DESCRIPTION [ AR ] Bein Sports 10 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19793.ts
+#DESCRIPTION [ AR ] Bein Sports 11 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19792.ts
+#DESCRIPTION [ AR ] Bein Sports 12 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13751.ts
+#DESCRIPTION ---- < LPC SPORTUBE > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14091.ts
+#DESCRIPTION [SPORTUBE] Lega Pro Taranto
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14092.ts
+#DESCRIPTION [SPORTUBE] Lega Pro Messina
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14093.ts
+#DESCRIPTION [SPORTUBE] Lega Pro Lecce
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14094.ts
+#DESCRIPTION [SPORTUBE] Lega Pro Fidelis Andria
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14095.ts
+#DESCRIPTION [SPORTUBE] Lega Pro Cosenza
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14096.ts
+#DESCRIPTION [SPORTUBE] Lega Pro Catania
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/17146.ts
+#DESCRIPTION ---- < LUCKY PRODUCTION > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21074.ts
+#DESCRIPTION LTS Cinema Comico
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21076.ts
+#DESCRIPTION LTS Cinema Disney
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21075.ts
+#DESCRIPTION LTS Cinema Drammatico
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21077.ts
+#DESCRIPTION LTS Cinema Fantascienza
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21078.ts
+#DESCRIPTION LTS Cinema Horror
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21079.ts
+#DESCRIPTION LTS Cinema Thriller
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21100.ts
+#DESCRIPTION LTS Cinema Cartoon
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21101.ts
+#DESCRIPTION LTS Cinema Azione
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/6638.ts
+#DESCRIPTION ---- < BAMBINI > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21838.ts
+#DESCRIPTION LTS Topolino Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21837.ts
+#DESCRIPTION LTS Masha & Orso Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21102.ts
+#DESCRIPTION LTS Channel : Tom & Jerry
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21103.ts
+#DESCRIPTION LTS Channel : Peppa Pig
+#SERVICE 1:0:1:3452:2710:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/12210.ts
+#DESCRIPTION Man-ga
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13701.ts
+#DESCRIPTION Dea Kids
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14082.ts
+#DESCRIPTION Boing
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/16161.ts
+#DESCRIPTION Sky Disney Channel
+#SERVICE 1:0:11:6d:384:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2457.ts
+#DESCRIPTION Premium Disney Channel
+#SERVICE 1:0:11:1BF6:384:110:EEEE0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/3645.ts
+#DESCRIPTION Premium Disney Junior
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18726.ts
+#DESCRIPTION Premium Disney Junior  +1
+#SERVICE 1:0:11:a0:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2458.ts
+#DESCRIPTION Premium Disney +1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2416.ts
+#DESCRIPTION Disney XD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2413.ts
+#DESCRIPTION Cartoonito
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2430.ts
+#DESCRIPTION K2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20658.ts
+#DESCRIPTION K2  +1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2427.ts
+#DESCRIPTION Frisbee
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2463.ts
+#DESCRIPTION Rai Gulp
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23288.ts
+#DESCRIPTION Rai Gulp HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2487.ts
+#DESCRIPTION Super!
+#SERVICE 1:0:1:d66:1450:13e:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2498.ts
+#DESCRIPTION Rai Yoyo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23287.ts
+#DESCRIPTION Rai Yoyo HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/8663.ts
+#DESCRIPTION Nikeleodeon
+#SERVICE 1:0:11:9d:385:110:eeee0000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2449.ts
+#DESCRIPTION Premium Carton Network
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/6640.ts
+#DESCRIPTION ---- < NOTIZIE > ---
+#SERVICE 1:0:1:110A:1644:FBFF:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2485.ts
+#DESCRIPTION Sky TG 24 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2465.ts
+#DESCRIPTION Rai News 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23289.ts
+#DESCRIPTION Rai News 24 HD
+#SERVICE 1:0:1:8:1770:110:820000:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/2488.ts
+#DESCRIPTION TgCom 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/7493.ts
+#DESCRIPTION TG Norba 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/9286.ts
+#DESCRIPTION Videolina
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/9280.ts
+#DESCRIPTION Italia 7 gold
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/9285.ts
+#DESCRIPTION Sardegna 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21071.ts
+#DESCRIPTION ---- < SVIZZERA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21002.ts
+#DESCRIPTION [CH] RSI LA 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21001.ts
+#DESCRIPTION [CH] RSI LA 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20998.ts
+#DESCRIPTION [CH] SRF 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20997.ts
+#DESCRIPTION [CH] SRF 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20996.ts
+#DESCRIPTION [CH] SRF Info HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20995.ts
+#DESCRIPTION [CH] Teleticino HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21069.ts
+#DESCRIPTION [CH] Teleclub Cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21068.ts
+#DESCRIPTION [CH] Teleclub Sport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21067.ts
+#DESCRIPTION [CH] Teleclub Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21066.ts
+#DESCRIPTION [CH] Teleclub Sport 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21065.ts
+#DESCRIPTION [CH] Teleclub Star
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20999.ts
+#DESCRIPTION [CH] RTS Un HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21000.ts
+#DESCRIPTION [CH] RTS Deux HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14673.ts
+#DESCRIPTION ---- < GERMANIA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20888.ts
+#DESCRIPTION [DE] Universal HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20889.ts
+#DESCRIPTION [DE] TNT Serie
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20890.ts
+#DESCRIPTION [DE] TNT Glitz HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20891.ts
+#DESCRIPTION [DE] TNT Film
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20892.ts
+#DESCRIPTION [DE] TNT Comedy HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20893.ts
+#DESCRIPTION [DE] Super RTL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20894.ts
+#DESCRIPTION [DE] Spiegel Geschichte HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20895.ts
+#DESCRIPTION [DE] Sky SyFy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20896.ts
+#DESCRIPTION [DE] Sky Sport Austria
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20897.ts
+#DESCRIPTION [DE] Sky Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20898.ts
+#DESCRIPTION [DE] Sky Sport 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20899.ts
+#DESCRIPTION [DE] Sky Sport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20900.ts
+#DESCRIPTION [DE] Sky Nostalgie
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20901.ts
+#DESCRIPTION [DE] Sky Krimi
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20902.ts
+#DESCRIPTION [DE] Sky Hits
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20903.ts
+#DESCRIPTION [DE] Sky Emotion
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20904.ts
+#DESCRIPTION [DE] Sky Cinema HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20905.ts
+#DESCRIPTION [DE] Sky Cinema  24 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20906.ts
+#DESCRIPTION [DE] Sky Cinema  1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20907.ts
+#DESCRIPTION [DE] Sky Bundesliga 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20908.ts
+#DESCRIPTION [DE] Sky Bundesliga 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20909.ts
+#DESCRIPTION [DE] Sky Bundesliga 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20910.ts
+#DESCRIPTION [DE] Sky Bundesliga 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20911.ts
+#DESCRIPTION [DE] Sky Bundesliga 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20912.ts
+#DESCRIPTION [DE] Sky Atlantic HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20913.ts
+#DESCRIPTION [DE] Sky Atlantic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20914.ts
+#DESCRIPTION [DE] Sky Action
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20915.ts
+#DESCRIPTION [DE] Sat 1 Gold
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20916.ts
+#DESCRIPTION [DE] Sat 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20917.ts
+#DESCRIPTION [DE] RTL Passion
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20918.ts
+#DESCRIPTION [DE] RTL Nitro
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20919.ts
+#DESCRIPTION [DE] RTL Living
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20920.ts
+#DESCRIPTION [DE] RTL Crime
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20921.ts
+#DESCRIPTION [DE] RTL 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20922.ts
+#DESCRIPTION [DE] Prosieben
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20923.ts
+#DESCRIPTION [DE] Pro 7 Max
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20924.ts
+#DESCRIPTION [DE] Nick Jr
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20925.ts
+#DESCRIPTION [DE] Nat Geo Wild HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20926.ts
+#DESCRIPTION [DE] Nat Geo Wild
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20927.ts
+#DESCRIPTION [DE] Nat Geo HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20928.ts
+#DESCRIPTION [DE] Nat Geo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20929.ts
+#DESCRIPTION [DE] MGM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20930.ts
+#DESCRIPTION [DE] Junior
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20931.ts
+#DESCRIPTION [DE] Heimakanal
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20932.ts
+#DESCRIPTION [DE] Fox
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20933.ts
+#DESCRIPTION [DE] E! Entertainm. HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20934.ts
+#DESCRIPTION [DE] Disneycinemagic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20935.ts
+#DESCRIPTION [DE] Disney XD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20936.ts
+#DESCRIPTION [DE] Disney Junior
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20937.ts
+#DESCRIPTION [DE] Discovery HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20938.ts
+#DESCRIPTION [DE] Discovery
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20939.ts
+#DESCRIPTION [DE] Das Herste
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20940.ts
+#DESCRIPTION [DE] Cartoon Network
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20941.ts
+#DESCRIPTION [DE] Bundesliga 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20942.ts
+#DESCRIPTION [DE] Boomerang
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20943.ts
+#DESCRIPTION [DE] Action HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20944.ts
+#DESCRIPTION [DE] 13TH Street
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/13610.ts
+#DESCRIPTION [DE] AXN HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18490.ts
+#DESCRIPTION [ DE ] Teleclub Star
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18491.ts
+#DESCRIPTION [ DE ] Teleclub Prime
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18492.ts
+#DESCRIPTION [ DE ] Teleclub Cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18493.ts
+#DESCRIPTION [ DE ] Sky Zdf Kultur
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18494.ts
+#DESCRIPTION [ DE ] Sky ZDF Info
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18495.ts
+#DESCRIPTION [ DE ] Sky Wdr
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18496.ts
+#DESCRIPTION [ DE ] Sky VOX
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18497.ts
+#DESCRIPTION [ DE ] Sky TNT Serie
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18498.ts
+#DESCRIPTION [ DE ] Sky TNT Film
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18499.ts
+#DESCRIPTION [ DE ] Sky SRF 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18500.ts
+#DESCRIPTION [ DE ] Sky SRF 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18501.ts
+#DESCRIPTION [ DE ] Sky Sport Time 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18502.ts
+#DESCRIPTION [ DE ] Sky Sport Time 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18503.ts
+#DESCRIPTION [ DE ] Sky Sport News
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18504.ts
+#DESCRIPTION [ DE ] Sky Sport Austria
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18505.ts
+#DESCRIPTION [ DE ] Sky Sport 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18506.ts
+#DESCRIPTION [ DE ] Sky Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18507.ts
+#DESCRIPTION [ DE ] Sky Sport 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18508.ts
+#DESCRIPTION [ DE ] Sky Sport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18509.ts
+#DESCRIPTION [ DE ] Sky Sport  1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18510.ts
+#DESCRIPTION [ DE ] Sky Sixx
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18511.ts
+#DESCRIPTION [ DE ] Sky Servus TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18512.ts
+#DESCRIPTION [ DE ] Sky Select 8
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18513.ts
+#DESCRIPTION [ DE ] Sky Select 7
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18514.ts
+#DESCRIPTION [ DE ] Sky Select 6
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18515.ts
+#DESCRIPTION [ DE ] Sky Select 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18516.ts
+#DESCRIPTION [ DE ] Sky Select 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18517.ts
+#DESCRIPTION [ DE ] Sky Select 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18518.ts
+#DESCRIPTION [ DE ] Sky Select 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18519.ts
+#DESCRIPTION [ DE ] Sky Select 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18520.ts
+#DESCRIPTION [ DE ] Sky Sat1 Gold
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18521.ts
+#DESCRIPTION [ DE ] Sky RTL Super
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18522.ts
+#DESCRIPTION [ DE ] Sky RTL Nitro
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18523.ts
+#DESCRIPTION [ DE ] Sky RTL 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18524.ts
+#DESCRIPTION [ DE ] Sky RTL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18525.ts
+#DESCRIPTION [ DE ] Sky RBB Berlin
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18526.ts
+#DESCRIPTION [ DE ] Sky Pro 7 Max
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18527.ts
+#DESCRIPTION [ DE ] Sky Pro 7
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18528.ts
+#DESCRIPTION [ DE ] Sky Phoenix
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18529.ts
+#DESCRIPTION [ DE ] Sky ORF Enis
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18530.ts
+#DESCRIPTION [ DE ] Sky ORF 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18531.ts
+#DESCRIPTION [ DE ] Sky Nostalgie
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18532.ts
+#DESCRIPTION [ DE ] Sky Nickelodeon
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18533.ts
+#DESCRIPTION [ DE ] Sky NDR HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18534.ts
+#DESCRIPTION [ DE ] Sky National Geographic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18535.ts
+#DESCRIPTION [ DE ] Sky Nat Geo wild
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18536.ts
+#DESCRIPTION [ DE ] Sky N24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18537.ts
+#DESCRIPTION [ DE ] Sky N-TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18538.ts
+#DESCRIPTION [ DE ] Sky MDR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18539.ts
+#DESCRIPTION [ DE ] Sky Krimi
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18540.ts
+#DESCRIPTION [ DE ] Sky Kika
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18541.ts
+#DESCRIPTION [ DE ] Sky Kabel 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18542.ts
+#DESCRIPTION [ DE ] Sky HITS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18543.ts
+#DESCRIPTION [ DE ] Sky History
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18544.ts
+#DESCRIPTION [ DE ] Sky FOX
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18545.ts
+#DESCRIPTION [ DE ] Sky Eurosport
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18546.ts
+#DESCRIPTION [ DE ] Sky Emotion
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18547.ts
+#DESCRIPTION [ DE ] Sky Dmax
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18548.ts
+#DESCRIPTION [ DE ] Sky Disney Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18549.ts
+#DESCRIPTION [ DE ] Sky Comedy Central
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18550.ts
+#DESCRIPTION [ DE ] Sky Comedy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18551.ts
+#DESCRIPTION [ DE ] Sky Cinema  24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18552.ts
+#DESCRIPTION [ DE ] Sky Cinema  1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18553.ts
+#DESCRIPTION [ DE ] Sky Cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18554.ts
+#DESCRIPTION [ DE ] Sky Bundesliga HD 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18555.ts
+#DESCRIPTION [ DE ] Sky BR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18556.ts
+#DESCRIPTION [ DE ] Sky Austria 24 TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18557.ts
+#DESCRIPTION [ DE ] Sky Atlantic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18558.ts
+#DESCRIPTION [ DE ] Sky Arte
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18559.ts
+#DESCRIPTION [ DE ] Sky ARD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18560.ts
+#DESCRIPTION [ DE ] Sky Action
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18561.ts
+#DESCRIPTION [ DE ] Sky 3sat
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18562.ts
+#DESCRIPTION [ DE ] Sky 13th Street
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18563.ts
+#DESCRIPTION [ DE ] OkMagdeburg.de
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18564.ts
+#DESCRIPTION [ DE ] Joiz
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18565.ts
+#DESCRIPTION [ DE ] HR HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18596.ts
+#DESCRIPTION ---- < REGNO UNITO > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21110.ts
+#DESCRIPTION [ UK ]:Sony_Movie_Channel DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21111.ts
+#DESCRIPTION [ UK ]:Sky_Movies_Thriller DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21112.ts
+#DESCRIPTION [ UK ]:SKY_MOVIES_SELECT DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21113.ts
+#DESCRIPTION [ UK ]:Sky_Movies_Sci-fi_Horror_HDDMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21114.ts
+#DESCRIPTION [ UK ]:SKY_MOVIES_MODERN_GRATES DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21115.ts
+#DESCRIPTION [ UK ]:Sky_Chelsea_TV_HD DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21116.ts
+#DESCRIPTION [ UK ]:SKY SPORTS 5 T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21117.ts
+#DESCRIPTION [ UK ]:SKY SPORTS 4 T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21118.ts
+#DESCRIPTION [ UK ]:SKY SPORTS 3 T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21119.ts
+#DESCRIPTION [ UK ]:SKY SPORTS 2 T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21120.ts
+#DESCRIPTION [ UK ]:SKY SPORTS 1 T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21121.ts
+#DESCRIPTION [ UK ]:SKY SPORT 5 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21122.ts
+#DESCRIPTION [ UK ]:SKY SPORT 4 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21123.ts
+#DESCRIPTION [ UK ]:SKY SPORT 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21124.ts
+#DESCRIPTION [ UK ]:SKY SPORT 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21125.ts
+#DESCRIPTION [ UK ]:SKY SPORT 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21126.ts
+#DESCRIPTION [ UK ]:SKY PREMIERE T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21127.ts
+#DESCRIPTION [ UK ]:SKY ATLANTIC T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21128.ts
+#DESCRIPTION [ UK ]:SKY ACTION T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21129.ts
+#DESCRIPTION [ UK ]:National_Geography_HD DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21130.ts
+#DESCRIPTION [ UK ]:National_Geografic DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21131.ts
+#DESCRIPTION [ UK ]:NatGeoWild DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21132.ts
+#DESCRIPTION [ UK ]:Nat_Geografic DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21133.ts
+#DESCRIPTION [ UK ]:Discovery_Turbo DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21134.ts
+#DESCRIPTION [ UK ]:Discovery_Science DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21135.ts
+#DESCRIPTION [ UK ]:Discovery_Investigation DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21136.ts
+#DESCRIPTION [ UK ]:COMEDY CENTRAL T[ UK ]
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21137.ts
+#DESCRIPTION [ UK ]:Animal_Planet DMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21138.ts
+#DESCRIPTION [ UK ]: Yesterday
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21139.ts
+#DESCRIPTION [ UK ]: Watch
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21140.ts
+#DESCRIPTION [ UK ]: Vivo 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21141.ts
+#DESCRIPTION [ UK ]: Vivo 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21142.ts
+#DESCRIPTION [ UK ]: Vivo 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21143.ts
+#DESCRIPTION [ UK ]: Vh1 Classic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21144.ts
+#DESCRIPTION [ UK ]: True Movies 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21145.ts
+#DESCRIPTION [ UK ]: True Movies 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21146.ts
+#DESCRIPTION [ UK ]: TLC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21147.ts
+#DESCRIPTION [ UK ]: TG4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21148.ts
+#DESCRIPTION [ UK ]: Sky Two
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21149.ts
+#DESCRIPTION [ UK ]: Sky Thriller
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21150.ts
+#DESCRIPTION [ UK ]: Sky Sports News HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21151.ts
+#DESCRIPTION [ UK ]: Sky Sports 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21152.ts
+#DESCRIPTION [ UK ]: Sky sports 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21153.ts
+#DESCRIPTION [ UK ]: Sky Sports 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21154.ts
+#DESCRIPTION [ UK ]: Sky Sport 5 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21155.ts
+#DESCRIPTION [ UK ]: Sky Sport 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21156.ts
+#DESCRIPTION [ UK ]: Sky Sport 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21157.ts
+#DESCRIPTION [ UK ]: Sky Sci-Fi
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21158.ts
+#DESCRIPTION [ UK ]: Sky One
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21159.ts
+#DESCRIPTION [ UK ]: SKY Movies Comedy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21160.ts
+#DESCRIPTION [ UK ]: Sky Drama
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21161.ts
+#DESCRIPTION [ UK ]: Sky BT Sport 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21162.ts
+#DESCRIPTION [ UK ]: SKY  NEWS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21163.ts
+#DESCRIPTION [ UK ]: Setanta Sports
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21164.ts
+#DESCRIPTION [ UK ]: Setanta Ireland
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21165.ts
+#DESCRIPTION [ UK ]: Racing
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21166.ts
+#DESCRIPTION [ UK ]: Premier Sport
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21167.ts
+#DESCRIPTION [ UK ]: Nickelodeon
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21168.ts
+#DESCRIPTION [ UK ]: Nick Junior
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21169.ts
+#DESCRIPTION [ UK ]: NAT GEO WILD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21170.ts
+#DESCRIPTION [ UK ]: MUTV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21171.ts
+#DESCRIPTION [ UK ]: Mototrs TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21172.ts
+#DESCRIPTION [ UK ]: London Live
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21173.ts
+#DESCRIPTION [ UK ]: Horror Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21174.ts
+#DESCRIPTION [ UK ]: FIGHT SPORTS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21175.ts
+#DESCRIPTION [ UK ]: Eurosport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21176.ts
+#DESCRIPTION [ UK ]: EuroSport
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21177.ts
+#DESCRIPTION [ UK ]: Disney XD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21178.ts
+#DESCRIPTION [ UK ]: Discovery Turbo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21179.ts
+#DESCRIPTION [ UK ]: Discovery Shed
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21180.ts
+#DESCRIPTION [ UK ]: Discovery
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21181.ts
+#DESCRIPTION [ UK ]: CBS REALITY
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21182.ts
+#DESCRIPTION [ UK ]: Cartoon Network
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21183.ts
+#DESCRIPTION [ UK ]: BT SPORT EXTRA 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21184.ts
+#DESCRIPTION [ UK ]: BT SPORT EUROPE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21185.ts
+#DESCRIPTION [ UK ]: BT Sport ESPN
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21186.ts
+#DESCRIPTION [ UK ]: BT SPORT 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21187.ts
+#DESCRIPTION [ UK ]: BT SPORT 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21188.ts
+#DESCRIPTION [ UK ]: Boxnation
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21189.ts
+#DESCRIPTION [ UK ]: BBC NEWS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21190.ts
+#DESCRIPTION [ UK ]: BBC ENT
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21191.ts
+#DESCRIPTION [ UK ]: BBC 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21192.ts
+#DESCRIPTION [ UK ]: BBC 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21193.ts
+#DESCRIPTION [ UK ]: BBC 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21194.ts
+#DESCRIPTION [ UK ]: BBC 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21195.ts
+#DESCRIPTION [ UK ]: Animal Planet
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21196.ts
+#DESCRIPTION [ UK ]-SKY-SPORTS-F1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21197.ts
+#DESCRIPTION [ UK ]-SKY-SPORTS-4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21198.ts
+#DESCRIPTION [ UK ]-SKY-SPORTS-3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21199.ts
+#DESCRIPTION [ UK ]-SKY-SPORTS-2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21200.ts
+#DESCRIPTION [ UK ]-SKY-SPORTS-1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21201.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-X
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21202.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-6
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21203.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21204.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21205.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21206.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21207.ts
+#DESCRIPTION [ UK ]-CTH-Stadium-1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14674.ts
+#DESCRIPTION ---- < SPAGNA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21085.ts
+#DESCRIPTION [ES] C MTV Espana
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21086.ts
+#DESCRIPTION [ES] C LTC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21087.ts
+#DESCRIPTION [ES] C Estellas
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21088.ts
+#DESCRIPTION [ES] C Energy TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21089.ts
+#DESCRIPTION [ES] C Divinity
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21090.ts
+#DESCRIPTION [ES] C Boing
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21091.ts
+#DESCRIPTION [ES] C Barca TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21092.ts
+#DESCRIPTION [ES] C Baby TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20945.ts
+#DESCRIPTION [ES] C  Xtra
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20946.ts
+#DESCRIPTION [ES] C  Viajar
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20947.ts
+#DESCRIPTION [ES] C  TNT
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20948.ts
+#DESCRIPTION [ES] C  Teledeporte
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20949.ts
+#DESCRIPTION [ES] C  Telecinco
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20950.ts
+#DESCRIPTION [ES] C  TCM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20951.ts
+#DESCRIPTION [ES] C  SyFy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20952.ts
+#DESCRIPTION [ES] C  Series Xtra
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20953.ts
+#DESCRIPTION [ES] C  Nova
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20954.ts
+#DESCRIPTION [ES] C  Nonstopeople
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20955.ts
+#DESCRIPTION [ES] C  Nat Geo Wild
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20956.ts
+#DESCRIPTION [ES] C  Nat Geo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20957.ts
+#DESCRIPTION [ES] C  Moviestar F1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20958.ts
+#DESCRIPTION [ES] C  Moto GP
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20959.ts
+#DESCRIPTION [ES] C  Los40
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20960.ts
+#DESCRIPTION [ES] C  La2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20961.ts
+#DESCRIPTION [ES] C  La1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20962.ts
+#DESCRIPTION [ES] C  La Sexta
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20963.ts
+#DESCRIPTION [ES] C  Iberalia TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20964.ts
+#DESCRIPTION [ES] C  Hollywood
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20965.ts
+#DESCRIPTION [ES] C  Golf
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20966.ts
+#DESCRIPTION [ES] C  Fox News
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20967.ts
+#DESCRIPTION [ES] C  Fox Life
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20968.ts
+#DESCRIPTION [ES] C  Fox HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20969.ts
+#DESCRIPTION [ES] C  FDF
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20970.ts
+#DESCRIPTION [ES] C  F.TBOL HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20971.ts
+#DESCRIPTION [ES] C  Eurosport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20972.ts
+#DESCRIPTION [ES] C  Estrenos
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20973.ts
+#DESCRIPTION [ES] C  Disney XD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20974.ts
+#DESCRIPTION [ES] C  Disney Junior
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20975.ts
+#DESCRIPTION [ES] C  Disney Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20976.ts
+#DESCRIPTION [ES] C  Discovery
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20977.ts
+#DESCRIPTION [ES] C  Deportes
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20978.ts
+#DESCRIPTION [ES] C  Dcine HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20979.ts
+#DESCRIPTION [ES] C  Dcine Espanol
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20980.ts
+#DESCRIPTION [ES] C  Crimen Inves
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20981.ts
+#DESCRIPTION [ES] C  Cosmo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20982.ts
+#DESCRIPTION [ES] C  Comedy Central
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20983.ts
+#DESCRIPTION [ES] C  Comedia
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20984.ts
+#DESCRIPTION [ES] C  Clan TVE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20985.ts
+#DESCRIPTION [ES] C  Caza & Pesca
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20986.ts
+#DESCRIPTION [ES] C  Canal Odisea
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20987.ts
+#DESCRIPTION [ES] C  Canal Decasa
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20988.ts
+#DESCRIPTION [ES] C  Canal Cocina
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20989.ts
+#DESCRIPTION [ES] C  AXN White
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20990.ts
+#DESCRIPTION [ES] C  AXN
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20991.ts
+#DESCRIPTION [ES] C  AMC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20992.ts
+#DESCRIPTION [ES] C  Accion HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20993.ts
+#DESCRIPTION [ES] C  A&E
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20994.ts
+#DESCRIPTION [ES] C  24 Horas
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14679.ts
+#DESCRIPTION ---- < FRANCIA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21082.ts
+#DESCRIPTION [ FR ] bein-sport-1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21083.ts
+#DESCRIPTION [ FR ] bein-sport-2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21084.ts
+#DESCRIPTION [ FR ] bein-sport-3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19627.ts
+#DESCRIPTION [ FR ] Wéo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19628.ts
+#DESCRIPTION [ FR ] W9 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19629.ts
+#DESCRIPTION [ FR ] W9
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19630.ts
+#DESCRIPTION [ FR ] Voyage
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19631.ts
+#DESCRIPTION [ FR ] VIRGIN HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19632.ts
+#DESCRIPTION [ FR ] Ushuaia TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19633.ts
+#DESCRIPTION [ FR ] TV5 MONDE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19634.ts
+#DESCRIPTION [ FR ] TV BREIZH
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19635.ts
+#DESCRIPTION [ FR ] TOUTE l'HISTOIRE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19636.ts
+#DESCRIPTION [ FR ] TMC HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19637.ts
+#DESCRIPTION [ FR ] TF1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19638.ts
+#DESCRIPTION [ FR ] TF1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19639.ts
+#DESCRIPTION [ FR ] Teva HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19640.ts
+#DESCRIPTION [ FR ] TELETOON
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19641.ts
+#DESCRIPTION [ FR ] TCM cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19642.ts
+#DESCRIPTION [ FR ] SyFy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19643.ts
+#DESCRIPTION [ FR ] Serie Club HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19644.ts
+#DESCRIPTION [ FR ] Sciences & Vie TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19645.ts
+#DESCRIPTION [ FR ] RTL9
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19646.ts
+#DESCRIPTION [ FR ] RMC Decouverte
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19647.ts
+#DESCRIPTION [ FR ] Planete A&E
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19648.ts
+#DESCRIPTION [ FR ] Planete  ci HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19649.ts
+#DESCRIPTION [ FR ] Planete
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19650.ts
+#DESCRIPTION [ FR ] PIWI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19651.ts
+#DESCRIPTION [ FR ] Paris Premiere HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19652.ts
+#DESCRIPTION [ FR ] Paramount Channel HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19653.ts
+#DESCRIPTION [ FR ] OLTV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19654.ts
+#DESCRIPTION [ FR ] OCS Max HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19655.ts
+#DESCRIPTION [ FR ] OCS Geants HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19656.ts
+#DESCRIPTION [ FR ] OCS City HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19657.ts
+#DESCRIPTION [ FR ] OCS Choc HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19658.ts
+#DESCRIPTION [ FR ] NT1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19659.ts
+#DESCRIPTION [ FR ] NRJ 12
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19660.ts
+#DESCRIPTION [ FR ] National Geographique
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19661.ts
+#DESCRIPTION [ FR ] NatGeo Wild HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19662.ts
+#DESCRIPTION [ FR ] MANGA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19663.ts
+#DESCRIPTION [ FR ] Ma Chaine Sport HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19664.ts
+#DESCRIPTION [ FR ] M6 Music
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19665.ts
+#DESCRIPTION [ FR ] M6  HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19666.ts
+#DESCRIPTION [ FR ] M6
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19667.ts
+#DESCRIPTION [ FR ] La Tele
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19668.ts
+#DESCRIPTION [ FR ] L'EQUIPE21
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19669.ts
+#DESCRIPTION [ FR ] KOMBAT SPORT HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19670.ts
+#DESCRIPTION [ FR ] iTELE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19671.ts
+#DESCRIPTION [ FR ] Infosport
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19672.ts
+#DESCRIPTION [ FR ] Histoire
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19673.ts
+#DESCRIPTION [ FR ] HD1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19674.ts
+#DESCRIPTION [ FR ] GULLI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19675.ts
+#DESCRIPTION [ FR ] GONG
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19676.ts
+#DESCRIPTION [ FR ] France O
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19677.ts
+#DESCRIPTION [ FR ] France 5 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19678.ts
+#DESCRIPTION [ FR ] France 4 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19679.ts
+#DESCRIPTION [ FR ] France 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19680.ts
+#DESCRIPTION [ FR ] France 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19681.ts
+#DESCRIPTION [ FR ] France 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19682.ts
+#DESCRIPTION [ FR ] Foot  24/24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19683.ts
+#DESCRIPTION [ FR ] Eurosport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19684.ts
+#DESCRIPTION [ FR ] EUROSPORT 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19685.ts
+#DESCRIPTION [ FR ] EURONEWS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19686.ts
+#DESCRIPTION [ FR ] EQUIDIA LIVE HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19687.ts
+#DESCRIPTION [ FR ] ENORME TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19688.ts
+#DESCRIPTION [ FR ] E! Entertainment
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19689.ts
+#DESCRIPTION [ FR ] Disney Jr.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19690.ts
+#DESCRIPTION [ FR ] Disney Cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19691.ts
+#DESCRIPTION [ FR ] Disney Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19692.ts
+#DESCRIPTION [ FR ] Discovery Science.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19693.ts
+#DESCRIPTION [ FR ] Discovery Science
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19694.ts
+#DESCRIPTION [ FR ] Discovery HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19695.ts
+#DESCRIPTION [ FR ] Discovery HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19696.ts
+#DESCRIPTION [ FR ] D8
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19697.ts
+#DESCRIPTION [ FR ] D17
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19698.ts
+#DESCRIPTION [ FR ] Comedie
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19699.ts
+#DESCRIPTION [ FR ] Ciné FX
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19700.ts
+#DESCRIPTION [ FR ] Cine  Premier HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19701.ts
+#DESCRIPTION [ FR ] Cine  Frisson HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19702.ts
+#DESCRIPTION [ FR ] Cine  Frisson HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19703.ts
+#DESCRIPTION [ FR ] Cine  Famiz HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19704.ts
+#DESCRIPTION [ FR ] Cine  Famiz HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19705.ts
+#DESCRIPTION [ FR ] Cine  Emotion HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19706.ts
+#DESCRIPTION [ FR ] Cine  Classic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19707.ts
+#DESCRIPTION [ FR ] Cherie25
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19708.ts
+#DESCRIPTION [ FR ] Chasse & Peche
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19709.ts
+#DESCRIPTION [ FR ] Cartoon Network HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19710.ts
+#DESCRIPTION [ FR ] Canal J
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19711.ts
+#DESCRIPTION [ FR ] Canal  Sport HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19712.ts
+#DESCRIPTION [ FR ] Canal  Sport HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19713.ts
+#DESCRIPTION [ FR ] Canal  Series HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19714.ts
+#DESCRIPTION [ FR ] Canal  Series HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19715.ts
+#DESCRIPTION [ FR ] Canal  HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19716.ts
+#DESCRIPTION [ FR ] Canal  HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19717.ts
+#DESCRIPTION [ FR ] Canal  Family HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19718.ts
+#DESCRIPTION [ FR ] Canal  Family HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19719.ts
+#DESCRIPTION [ FR ] Canal  Decale HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19720.ts
+#DESCRIPTION [ FR ] Canal  Decale HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19721.ts
+#DESCRIPTION [ FR ] Canal  Cinema HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19722.ts
+#DESCRIPTION [ FR ] Canal  Cinema HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19723.ts
+#DESCRIPTION [ FR ] BOOMERANG
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19724.ts
+#DESCRIPTION [ FR ] Boing
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19725.ts
+#DESCRIPTION [ FR ] BFM TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19726.ts
+#DESCRIPTION [ FR ] Arte
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19727.ts
+#DESCRIPTION [ FR ] Animaux
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19728.ts
+#DESCRIPTION [ FR ] Action HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19729.ts
+#DESCRIPTION [ FR ] AB1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19730.ts
+#DESCRIPTION [ FR ] A.LA.CARTE.5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19731.ts
+#DESCRIPTION [ FR ] A.LA.CARTE.4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19732.ts
+#DESCRIPTION [ FR ] A.LA.CARTE.3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19733.ts
+#DESCRIPTION [ FR ] A.LA.CARTE.2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19734.ts
+#DESCRIPTION [ FR ] A.LA.CARTE.1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19735.ts
+#DESCRIPTION [ FR ] 6TER HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19736.ts
+#DESCRIPTION [ FR ] 13eme Rue
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14681.ts
+#DESCRIPTION ---- < TURCHIA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19626.ts
+#DESCRIPTION [ TR ]  SALON 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19625.ts
+#DESCRIPTION [ TR ]  SALON 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19624.ts
+#DESCRIPTION [ TR ] A HABER HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19623.ts
+#DESCRIPTION [ TR ] A SPOR HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19622.ts
+#DESCRIPTION [ TR ] ATV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19621.ts
+#DESCRIPTION [ TR ] ATV HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19620.ts
+#DESCRIPTION [ TR ] BEYAZ TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19619.ts
+#DESCRIPTION [ TR ] CARTOON NETWORK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19618.ts
+#DESCRIPTION [ TR ] Cinebox 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19617.ts
+#DESCRIPTION [ TR ] Cinebox 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19616.ts
+#DESCRIPTION [ TR ] Cinebox 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19615.ts
+#DESCRIPTION [ TR ] Cinebox 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19614.ts
+#DESCRIPTION [ TR ] Cinebox 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19613.ts
+#DESCRIPTION [ TR ] Cinebox TR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19612.ts
+#DESCRIPTION [ TR ] CINEMAX ONE HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19611.ts
+#DESCRIPTION [ TR ] CINESTAR ANIMASYON
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19610.ts
+#DESCRIPTION [ TR ] CINESTAR GERILIM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19609.ts
+#DESCRIPTION [ TR ] CINESTAR KOMEDI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19608.ts
+#DESCRIPTION [ TR ] CINESTAR TÜRK 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19607.ts
+#DESCRIPTION [ TR ] CINESTAR TÜRK 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19606.ts
+#DESCRIPTION [ TR ] CINESTAR VIZYON 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19605.ts
+#DESCRIPTION [ TR ] CNN TURK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19604.ts
+#DESCRIPTION [ TR ] DISCOVERY
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19603.ts
+#DESCRIPTION [ TR ] DISNEY CHANNEL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19602.ts
+#DESCRIPTION [ TR ] DREAM TURK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19601.ts
+#DESCRIPTION [ TR ] FIL TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19600.ts
+#DESCRIPTION [ TR ] FOX CRIME
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19599.ts
+#DESCRIPTION [ TR ] FOX HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19598.ts
+#DESCRIPTION [ TR ] HABER TURK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19597.ts
+#DESCRIPTION [ TR ] HISTORY HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19596.ts
+#DESCRIPTION [ TR ] ImaQ Filmbox 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19595.ts
+#DESCRIPTION [ TR ] Istanbul 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19594.ts
+#DESCRIPTION [ TR ] KANAL 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19593.ts
+#DESCRIPTION [ TR ] KANAL 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19592.ts
+#DESCRIPTION [ TR ] KANAL 7 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19591.ts
+#DESCRIPTION [ TR ] KANAL A HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19590.ts
+#DESCRIPTION [ TR ] KANAL D
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19589.ts
+#DESCRIPTION [ TR ] Lig TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19588.ts
+#DESCRIPTION [ TR ] Lig TV 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19587.ts
+#DESCRIPTION [ TR ] LIG TV HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19586.ts
+#DESCRIPTION [ TR ] LIGTV 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19585.ts
+#DESCRIPTION [ TR ] LIGTV 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19584.ts
+#DESCRIPTION [ TR ] LIGTV 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19583.ts
+#DESCRIPTION [ TR ] LIGTV 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19582.ts
+#DESCRIPTION [ TR ] LIGTV 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19581.ts
+#DESCRIPTION [ TR ] LIGTV 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19580.ts
+#DESCRIPTION [ TR ] LIGTV 4 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19579.ts
+#DESCRIPTION [ TR ] LOCA 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19578.ts
+#DESCRIPTION [ TR ] LOCA 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19577.ts
+#DESCRIPTION [ TR ] LOCA 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19576.ts
+#DESCRIPTION [ TR ] MovieMax Action HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19575.ts
+#DESCRIPTION [ TR ] MovieMax Comedy HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19574.ts
+#DESCRIPTION [ TR ] MovieMax Family HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19573.ts
+#DESCRIPTION [ TR ] Moviemax Oscar HD.
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19572.ts
+#DESCRIPTION [ TR ] MovieMax Premier 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19571.ts
+#DESCRIPTION [ TR ] MovieMax Premier HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19570.ts
+#DESCRIPTION [ TR ] Moviemax Turk
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19569.ts
+#DESCRIPTION [ TR ] MOVIESMART ACTION HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19568.ts
+#DESCRIPTION [ TR ] MovieSmart Family HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19567.ts
+#DESCRIPTION [ TR ] MovieSmart Festival HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19566.ts
+#DESCRIPTION [ TR ] NAT GEO HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19565.ts
+#DESCRIPTION [ TR ] NAT GEO WILD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19564.ts
+#DESCRIPTION [ TR ] NR1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19563.ts
+#DESCRIPTION [ TR ] NTV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19562.ts
+#DESCRIPTION [ TR ] PLANET COCUK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19561.ts
+#DESCRIPTION [ TR ] PLANET TURK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19560.ts
+#DESCRIPTION [ TR ] POWER TURK HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19559.ts
+#DESCRIPTION [ TR ] SALON 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19558.ts
+#DESCRIPTION [ TR ] SHOW TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19557.ts
+#DESCRIPTION [ TR ] SHOW TV HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19556.ts
+#DESCRIPTION [ TR ] SINEMA TV Aile
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19555.ts
+#DESCRIPTION [ TR ] SINEMA TV HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19554.ts
+#DESCRIPTION [ TR ] SineMax Turk HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19553.ts
+#DESCRIPTION [ TR ] SINETIVI 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19552.ts
+#DESCRIPTION [ TR ] SINETIVI 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19551.ts
+#DESCRIPTION [ TR ] SMARTSPOR 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19550.ts
+#DESCRIPTION [ TR ] SMARTSPOR 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19549.ts
+#DESCRIPTION [ TR ] STAR TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19548.ts
+#DESCRIPTION [ TR ] TGRT HABER
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19547.ts
+#DESCRIPTION [ TR ] TIVIBUSPOR 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19546.ts
+#DESCRIPTION [ TR ] TIVIBUSPOR 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19545.ts
+#DESCRIPTION [ TR ] TRT 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19544.ts
+#DESCRIPTION [ TR ] TRT AVAZ
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19543.ts
+#DESCRIPTION [ TR ] TRT BELGESEL HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19542.ts
+#DESCRIPTION [ TR ] TRT COCUK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19541.ts
+#DESCRIPTION [ TR ] TRT HABER HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19540.ts
+#DESCRIPTION [ TR ] TRT HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19539.ts
+#DESCRIPTION [ TR ] TRT MUZIK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19538.ts
+#DESCRIPTION [ TR ] TRT OKUL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19537.ts
+#DESCRIPTION [ TR ] TRT SPOR HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19536.ts
+#DESCRIPTION [ TR ] TRT TURK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19535.ts
+#DESCRIPTION [ TR ] TV 8 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19534.ts
+#DESCRIPTION [ TR ] TV2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19533.ts
+#DESCRIPTION [ TR ] Ulke HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/19532.ts
+#DESCRIPTION [ TR ] YABAN TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14676.ts
+#DESCRIPTION ---- < ROMANIA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18566.ts
+#DESCRIPTION [ RO ] VH1 Classic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18567.ts
+#DESCRIPTION [ RO ] TVR Moldova
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18568.ts
+#DESCRIPTION [ RO ] TVR 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18569.ts
+#DESCRIPTION [ RO ] TVR 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18570.ts
+#DESCRIPTION [ RO ] TV TRWAM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18571.ts
+#DESCRIPTION [ RO ] Tv Sud Est
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18572.ts
+#DESCRIPTION [ RO ] TV Kino
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18573.ts
+#DESCRIPTION [ RO ] TV Asta
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18574.ts
+#DESCRIPTION [ RO ] THT Bravo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18575.ts
+#DESCRIPTION [ RO ] TeleMoldovaPlus
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18576.ts
+#DESCRIPTION [ RO ] TeleM Iasi
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18577.ts
+#DESCRIPTION [ RO ] slagr tv
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18578.ts
+#DESCRIPTION [ RO ] Salajeanul TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18579.ts
+#DESCRIPTION [ RO ] RTR Moldova
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18580.ts
+#DESCRIPTION [ RO ] Retro
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18581.ts
+#DESCRIPTION [ RO ] Ren TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18582.ts
+#DESCRIPTION [ RO ] Realtaea TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18583.ts
+#DESCRIPTION [ RO ] Pro TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18584.ts
+#DESCRIPTION [ RO ] Prima Love
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18585.ts
+#DESCRIPTION [ RO ] prima cool
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18586.ts
+#DESCRIPTION [ RO ] Prima
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18587.ts
+#DESCRIPTION [ RO ] Plus Barrandov
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18588.ts
+#DESCRIPTION [ RO ] Noe
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18589.ts
+#DESCRIPTION [ RO ] Moldova Sport
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18590.ts
+#DESCRIPTION [ RO ] Moldova 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18591.ts
+#DESCRIPTION [ RO ] MBC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18592.ts
+#DESCRIPTION [ RO ] CT 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18593.ts
+#DESCRIPTION [ RO ] Canal 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18594.ts
+#DESCRIPTION [ RO ] Canal 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18595.ts
+#DESCRIPTION [ RO ] Antena 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14678.ts
+#DESCRIPTION ---- < EX YU & CROAZIA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20142.ts
+#DESCRIPTION [ EX-YU ] Sport Klub 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20143.ts
+#DESCRIPTION [ EX-YU ] Sport Klub 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20144.ts
+#DESCRIPTION [ EX-YU ] Sport Klub 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20145.ts
+#DESCRIPTION [ EX-YU ] SK2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20146.ts
+#DESCRIPTION [ EX-YU ] SK1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20147.ts
+#DESCRIPTION [ EX-YU ] pink2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20148.ts
+#DESCRIPTION [ EX-YU ] PINK1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20149.ts
+#DESCRIPTION [ EX-YU ] PINK ZABAVA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20150.ts
+#DESCRIPTION [ EX-YU ] Pink World Cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20151.ts
+#DESCRIPTION [ EX-YU ] pink world
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20152.ts
+#DESCRIPTION [ EX-YU ] PINK THRILLER
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20153.ts
+#DESCRIPTION [ EX-YU ] Pink Serije
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20154.ts
+#DESCRIPTION [ EX-YU ] PINK romance
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20155.ts
+#DESCRIPTION [ EX-YU ] PINK REALITY
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20156.ts
+#DESCRIPTION [ EX-YU ] PINK PREMIUM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20157.ts
+#DESCRIPTION [ EX-YU ] PINK MOVIES
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20158.ts
+#DESCRIPTION [ EX-YU ] pink KIDS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20159.ts
+#DESCRIPTION [ EX-YU ] PINK HORROR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20160.ts
+#DESCRIPTION [ EX-YU ] PINK FOLK2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20161.ts
+#DESCRIPTION [ EX-YU ] PINK FOLK
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20162.ts
+#DESCRIPTION [ EX-YU ] Pink Film
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20163.ts
+#DESCRIPTION [ EX-YU ] PINK extra
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20164.ts
+#DESCRIPTION [ EX-YU ] Pink Entertainment
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20165.ts
+#DESCRIPTION [ EX-YU ] PINK CRIME & MISTERY
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20166.ts
+#DESCRIPTION [ EX-YU ] Pink Comedy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20167.ts
+#DESCRIPTION [ EX-YU ] pink classic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20168.ts
+#DESCRIPTION [ EX-YU ] PINK BIH
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20169.ts
+#DESCRIPTION [ EX-YU ] PINK action
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20170.ts
+#DESCRIPTION [ EX-YU ] NATIONAL GEOGRAPHIC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20171.ts
+#DESCRIPTION [ EX-YU ] HISTORY CHANNEL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20172.ts
+#DESCRIPTION [ EX-YU ] HBO COMEDY
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20173.ts
+#DESCRIPTION [ EX-YU ] HBO ADRIA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20174.ts
+#DESCRIPTION [ EX-YU ] FOX TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20175.ts
+#DESCRIPTION [ EX-YU ] FOX MOVIES
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20176.ts
+#DESCRIPTION [ EX-YU ] FOX LIFE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20177.ts
+#DESCRIPTION [ EX-YU ] FOX CRIME
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20178.ts
+#DESCRIPTION [ EX-YU ] EUROSPORT 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20179.ts
+#DESCRIPTION [ EX-YU ] EUROSPORT
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20180.ts
+#DESCRIPTION [ EX-YU ] DISCOVERY CHANNEL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20181.ts
+#DESCRIPTION [ EX-YU ] Cinestar Action
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20182.ts
+#DESCRIPTION [ EX-YU ] CINESTAR 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20183.ts
+#DESCRIPTION [ EX-YU ] CINESTAR 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20184.ts
+#DESCRIPTION [ EX-YU ] Cinemax 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20185.ts
+#DESCRIPTION [ EX-YU ] Cinemax 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20186.ts
+#DESCRIPTION [ EX-YU ] Arena Sport5 HR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20187.ts
+#DESCRIPTION [ EX-YU ] Arena Sport4 HR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20188.ts
+#DESCRIPTION [ EX-YU ] Arena Sport3 HR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20189.ts
+#DESCRIPTION [ EX-YU ] Arena Sport2 HR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20190.ts
+#DESCRIPTION [ EX-YU ] Arena Sport1 HR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20191.ts
+#DESCRIPTION [ EX-YU ] Arena Sport 5 SR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14677.ts
+#DESCRIPTION ---- < PORTOGALLO > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23225.ts
+#DESCRIPTION [ PT ] ABOLA TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23226.ts
+#DESCRIPTION [ PT ] AXN_HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23227.ts
+#DESCRIPTION [ PT ] BTV 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23228.ts
+#DESCRIPTION [ PT ] CANAL PANDA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23229.ts
+#DESCRIPTION [ PT ] CartoonNetwork
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23230.ts
+#DESCRIPTION [ PT ] Cinemundo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23231.ts
+#DESCRIPTION [ PT ] CM TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23232.ts
+#DESCRIPTION [ PT ] Discovery-HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23233.ts
+#DESCRIPTION [ PT ] Disney Junior
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23234.ts
+#DESCRIPTION [ PT ] E! Entertainment
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23235.ts
+#DESCRIPTION [ PT ] Fox HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23236.ts
+#DESCRIPTION [ PT ] Fox_Crime
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23237.ts
+#DESCRIPTION [ PT ] Fox-Comedy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23238.ts
+#DESCRIPTION [ PT ] Fox-Crime
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23239.ts
+#DESCRIPTION [ PT ] Fox-Movies
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23240.ts
+#DESCRIPTION [ PT ] Historia HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23241.ts
+#DESCRIPTION [ PT ] Hollywood
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23242.ts
+#DESCRIPTION [ PT ] JIM JAM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23243.ts
+#DESCRIPTION [ PT ] MOV HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23244.ts
+#DESCRIPTION [ PT ] MovHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23245.ts
+#DESCRIPTION [ PT ] NATIONAL GEOGRAPHIC HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23246.ts
+#DESCRIPTION [ PT ] PFC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23247.ts
+#DESCRIPTION [ PT ] Porto Canal
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23248.ts
+#DESCRIPTION [ PT ] RTP 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23249.ts
+#DESCRIPTION [ PT ] RTP 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23250.ts
+#DESCRIPTION [ PT ] RTP Africa
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23251.ts
+#DESCRIPTION [ PT ] RTP Madeira
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23252.ts
+#DESCRIPTION [ PT ] RTP MEM?RIA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23253.ts
+#DESCRIPTION [ PT ] RTP Memoria
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23254.ts
+#DESCRIPTION [ PT ] SIC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23255.ts
+#DESCRIPTION [ PT ] SIC CARAS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23256.ts
+#DESCRIPTION [ PT ] SIC KIDS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23257.ts
+#DESCRIPTION [ PT ] SIC NOT?CIAS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23258.ts
+#DESCRIPTION [ PT ] SIC RADICAL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23259.ts
+#DESCRIPTION [ PT ] TV GLOBO PREMIUM
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23260.ts
+#DESCRIPTION [ PT ] TV SERIES
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23261.ts
+#DESCRIPTION [ PT ] TVCine 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23262.ts
+#DESCRIPTION [ PT ] TVCine_1_HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23263.ts
+#DESCRIPTION [ PT ] TVCine_2_HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23264.ts
+#DESCRIPTION [ PT ] TVCine_3_HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23265.ts
+#DESCRIPTION [ PT ] TVI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23266.ts
+#DESCRIPTION [ PT ] TVI 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23267.ts
+#DESCRIPTION [ PT ] TVI FICC?O
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23268.ts
+#DESCRIPTION [ PT ]AxnBlack HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/1593.ts
+#DESCRIPTION --------- HOT CLUB XXX ---------
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21003.ts
+#DESCRIPTION [XXX] TV Girl
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21004.ts
+#DESCRIPTION [XXX] Sextosenso
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21005.ts
+#DESCRIPTION [XXX] Satisfaction
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21006.ts
+#DESCRIPTION [XXX] Red Light HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21007.ts
+#DESCRIPTION [XXX] Pinko TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21008.ts
+#DESCRIPTION [XXX] Hustler HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21009.ts
+#DESCRIPTION [XXX] Exotica TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21010.ts
+#DESCRIPTION [XXX] Evil Angel TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21011.ts
+#DESCRIPTION [XXX] Dorcel HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21012.ts
+#DESCRIPTION [XXX] Cento X Cento
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21013.ts
+#DESCRIPTION [XXX] BoyBoy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18322.ts
+#DESCRIPTION [ XXX ] BRAZZERS
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18323.ts
+#DESCRIPTION [ XXX ] BRAZZERS 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18324.ts
+#DESCRIPTION [ XXX ] BRAZZERS 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18325.ts
+#DESCRIPTION [ XXX ] BRAZZERS 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18326.ts
+#DESCRIPTION [ XXX ] BRAZZERS 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18327.ts
+#DESCRIPTION [ XXX ] BRAZZERS 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18328.ts
+#DESCRIPTION [ XXX ] BRAZZERS 6
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18329.ts
+#DESCRIPTION [ XXX ] BRAZZERS 7
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18330.ts
+#DESCRIPTION [ XXX ] BRAZZERS 8
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18331.ts
+#DESCRIPTION [ XXX ] BRAZZERS 9
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18332.ts
+#DESCRIPTION [ XXX ] BRAZZERS 10
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18333.ts
+#DESCRIPTION [ XXX ] BRAZZERS 11
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18334.ts
+#DESCRIPTION [ XXX ] BRAZZERS 12
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18335.ts
+#DESCRIPTION [ XXX ] BRAZZERS 13
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18336.ts
+#DESCRIPTION [ XXX ] BRAZZERS 14
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18337.ts
+#DESCRIPTION [ XXX ] BRAZZERS 15
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18338.ts
+#DESCRIPTION [ XXX ] BRAZZERS 16
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18339.ts
+#DESCRIPTION [ XXX ] BRAZZERS 17
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18340.ts
+#DESCRIPTION [ XXX ] BRAZZERS 18
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18341.ts
+#DESCRIPTION [ XXX ] BRAZZERS 19
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18342.ts
+#DESCRIPTION [ XXX ] BRAZZERS 20
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18343.ts
+#DESCRIPTION [ XXX ] BRAZZERS 21
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18344.ts
+#DESCRIPTION [ XXX ] BRAZZERS 22
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18345.ts
+#DESCRIPTION [ XXX ] BRAZZERS 23
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18346.ts
+#DESCRIPTION [ XXX ] BRAZZERS 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18347.ts
+#DESCRIPTION [ XXX ] BRAZZERS 25
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18348.ts
+#DESCRIPTION [ XXX ] BRAZZERS 26
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18349.ts
+#DESCRIPTION [ XXX ] BRAZZERS 27
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18350.ts
+#DESCRIPTION [ XXX ] BRAZZERS 28
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18351.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18359.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18352.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18353.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18354.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18355.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 6
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18356.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 7
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18357.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 8
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18358.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 9
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18360.ts
+#DESCRIPTION [ XXX ] BRAZZERS ANAL 10
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18384.ts
+#DESCRIPTION [ XXX ] GIRLS 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18385.ts
+#DESCRIPTION [ XXX ] GIRLS 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18386.ts
+#DESCRIPTION [ XXX ] GIRLS 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18387.ts
+#DESCRIPTION [ XXX ] GIRLS 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18388.ts
+#DESCRIPTION [ XXX ] GIRLS 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18389.ts
+#DESCRIPTION [ XXX ] GIRLS 6
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18390.ts
+#DESCRIPTION [ XXX ] GIRLS 7
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18391.ts
+#DESCRIPTION [ XXX ] GIRLS 8
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18392.ts
+#DESCRIPTION [ XXX ] GIRLS 9
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18393.ts
+#DESCRIPTION [ XXX ] GIRLS 10
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18394.ts
+#DESCRIPTION [ XXX ] GIRLS 11
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18395.ts
+#DESCRIPTION [ XXX ] GIRLS 12
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18396.ts
+#DESCRIPTION [ XXX ] GIRLS 13
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18397.ts
+#DESCRIPTION [ XXX ] GIRLS 14
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18398.ts
+#DESCRIPTION [ XXX ] GIRLS 15
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18399.ts
+#DESCRIPTION [ XXX ] GIRLS 16
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18400.ts
+#DESCRIPTION [ XXX ] GIRLS 17
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18401.ts
+#DESCRIPTION [ XXX ] GIRLS 18
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18402.ts
+#DESCRIPTION [ XXX ] GIRLS 19
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18403.ts
+#DESCRIPTION [ XXX ] GIRLS 20
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18404.ts
+#DESCRIPTION [ XXX ] GIRLS 21
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/18405.ts
+#DESCRIPTION [ XXX ] GIRLS 22
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14680.ts
+#DESCRIPTION ---- < ALBANIA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23195.ts
+#DESCRIPTION [ AL ] A1 shqip
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23196.ts
+#DESCRIPTION [ AL ] Alb Humor 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23197.ts
+#DESCRIPTION [ AL ] APOLLON TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23198.ts
+#DESCRIPTION [ AL ] DIGI GOLD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23199.ts
+#DESCRIPTION [ AL ] Film Akison
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23194.ts
+#DESCRIPTION [ AL ] Film Aksion
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23193.ts
+#DESCRIPTION [ AL ] Film Autor
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23192.ts
+#DESCRIPTION [ AL ] Film Drame
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23191.ts
+#DESCRIPTION [ AL ] Film Dy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23190.ts
+#DESCRIPTION [ AL ] Film Gold
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23189.ts
+#DESCRIPTION [ AL ] Film Komedi
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23188.ts
+#DESCRIPTION [ AL ] Film Nje
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23200.ts
+#DESCRIPTION [ AL ] FILM NJE HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23187.ts
+#DESCRIPTION [ AL ] Film Thriller
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23201.ts
+#DESCRIPTION [ AL ] Folk
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23202.ts
+#DESCRIPTION [ AL ] Folklorit
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23203.ts
+#DESCRIPTION [ AL ] Jolly HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23186.ts
+#DESCRIPTION [ AL ] Kino Action
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23185.ts
+#DESCRIPTION [ AL ] Kino Dark
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23204.ts
+#DESCRIPTION [ AL ] kino Premier 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23205.ts
+#DESCRIPTION [ AL ] kino Premier 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23206.ts
+#DESCRIPTION [ AL ] Kino Premiere 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23184.ts
+#DESCRIPTION [ AL ] Kino Scifi
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23183.ts
+#DESCRIPTION [ AL ] Kino Thriller
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23207.ts
+#DESCRIPTION [ AL ] KINO_ACTION_HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23208.ts
+#DESCRIPTION [ AL ] KINO_PREMIERE_HD2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23209.ts
+#DESCRIPTION [ AL ] opoja tv
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23210.ts
+#DESCRIPTION [ AL ] RTK 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23211.ts
+#DESCRIPTION [ AL ] Star Plus Shkoder
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23212.ts
+#DESCRIPTION [ AL ] Stv folk
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23213.ts
+#DESCRIPTION [ AL ] super sonic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23214.ts
+#DESCRIPTION [ AL ] Super Sport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23215.ts
+#DESCRIPTION [ AL ] Super Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23216.ts
+#DESCRIPTION [ AL ] Super Sport 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23217.ts
+#DESCRIPTION [ AL ] Super Sport 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23218.ts
+#DESCRIPTION [ AL ] Super Sport Kosova 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23219.ts
+#DESCRIPTION [ AL ] Super Sport Kosova 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23220.ts
+#DESCRIPTION [ AL ] Super Sport4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23182.ts
+#DESCRIPTION [ AL ] SuperSport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23181.ts
+#DESCRIPTION [ AL ] SuperSport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23221.ts
+#DESCRIPTION [ AL ] SuperSport 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23180.ts
+#DESCRIPTION [ AL ] SuperSport 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23179.ts
+#DESCRIPTION [ AL ] SuperSport 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23178.ts
+#DESCRIPTION [ AL ] SuperSport 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23222.ts
+#DESCRIPTION [ AL ] Top Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23177.ts
+#DESCRIPTION [ AL ] Tring Comedy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23176.ts
+#DESCRIPTION [ AL ] Tring Fantasy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23175.ts
+#DESCRIPTION [ AL ] Tring History
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23174.ts
+#DESCRIPTION [ AL ] Tring Jolly
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23223.ts
+#DESCRIPTION [ AL ] Tring Jolly HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23173.ts
+#DESCRIPTION [ AL ] Tring Life
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23172.ts
+#DESCRIPTION [ AL ] Tring Max
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23171.ts
+#DESCRIPTION [ AL ] Tring Planet
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23170.ts
+#DESCRIPTION [ AL ] Tring Shqip
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23169.ts
+#DESCRIPTION [ AL ] Tring Sport 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23168.ts
+#DESCRIPTION [ AL ] Tring Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23167.ts
+#DESCRIPTION [ AL ] Tring Sport 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23166.ts
+#DESCRIPTION [ AL ] Tring Sport 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23165.ts
+#DESCRIPTION [ AL ] Tring Sport News
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23164.ts
+#DESCRIPTION [ AL ] Tring Super
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23163.ts
+#DESCRIPTION [ AL ] Tring Tring
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23162.ts
+#DESCRIPTION [ AL ] Tring World
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23224.ts
+#DESCRIPTION [ AL ] UK Music HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20018.ts
+#DESCRIPTION ---- < OLANDA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23269.ts
+#DESCRIPTION [ NL ] Film 1 Action
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23270.ts
+#DESCRIPTION [ NL ] Film 1 Premiere HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23271.ts
+#DESCRIPTION [ NL ] Film1 Spotlight
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23272.ts
+#DESCRIPTION [ NL ] Fox Sport 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23273.ts
+#DESCRIPTION [ NL ] FOX SPORT 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23274.ts
+#DESCRIPTION [ NL ] FOX SPORT 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23275.ts
+#DESCRIPTION [ NL ] FOX SPORT 5
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23276.ts
+#DESCRIPTION [ NL ] MTVHD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23277.ts
+#DESCRIPTION [ NL ] NPO1HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23278.ts
+#DESCRIPTION [ NL ] NPO2HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23279.ts
+#DESCRIPTION [ NL ] NPO3HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23280.ts
+#DESCRIPTION [ NL ] RTL4HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23281.ts
+#DESCRIPTION [ NL ] RTL5HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23282.ts
+#DESCRIPTION [ NL ] RTL7HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23283.ts
+#DESCRIPTION [ NL ] RTL8HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/22694.ts
+#DESCRIPTION === USA ===
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23150.ts
+#DESCRIPTION [ USA ] ASTRO SPORT 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23147.ts
+#DESCRIPTION [ USA ] ABC News HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23148.ts
+#DESCRIPTION [ USA ] ASTRO SPORT 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23149.ts
+#DESCRIPTION [ USA ] ASTRO SPORT 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23151.ts
+#DESCRIPTION [ USA ] Fox Sports 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23152.ts
+#DESCRIPTION [ USA ] Prime Atlantic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23153.ts
+#DESCRIPTION [ USA ] Prime Pacific
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23154.ts
+#DESCRIPTION [ USA ] Sports 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23155.ts
+#DESCRIPTION [ USA ] Sports HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23156.ts
+#DESCRIPTION [ USA ] TSN 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23157.ts
+#DESCRIPTION [ USA ] TSN 3 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23158.ts
+#DESCRIPTION [ USA ] TSN 4 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23159.ts
+#DESCRIPTION [ USA ] TSN 5 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23160.ts
+#DESCRIPTION [ USA ] TSN1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/23161.ts
+#DESCRIPTION [ USA ] WILLOW CRICKET HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/14683.ts
+#DESCRIPTION ---- < AFRICA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20192.ts
+#DESCRIPTION [ AF ] ZTV ( Ghana )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20193.ts
+#DESCRIPTION [ AF ] Zee TV India
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20194.ts
+#DESCRIPTION [ AF ] Zee TV ( South Africa .)
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20195.ts
+#DESCRIPTION [ AF ] Zee Cinema
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20196.ts
+#DESCRIPTION [ AF ] Wazobia TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20197.ts
+#DESCRIPTION [ AF ] VOX AFRIQUE FRENCH
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20198.ts
+#DESCRIPTION [ AF ] Vox Africa
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20199.ts
+#DESCRIPTION [ AF ] Vision TV 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20200.ts
+#DESCRIPTION [ AF ] TVT International ( Togo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20201.ts
+#DESCRIPTION [ AF ] TVS1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20202.ts
+#DESCRIPTION [ AF ] tvm3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20203.ts
+#DESCRIPTION [ AF ] TV5 MONDE AFRICA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20204.ts
+#DESCRIPTION [ AF ] TV Mana-Maputo
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20205.ts
+#DESCRIPTION [ AF ] TV Continental ( Nigeria )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20206.ts
+#DESCRIPTION [ AF ] TM2 ( Mali )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20207.ts
+#DESCRIPTION [ AF ] TeleSud
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20208.ts
+#DESCRIPTION [ AF ] Tele Music Guinee
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20209.ts
+#DESCRIPTION [ AF ] Tele Congo TV ( Congo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20210.ts
+#DESCRIPTION [ AF ] Tele Chad TV ( Chad )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20211.ts
+#DESCRIPTION [ AF ] TELE 50 ( Congo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20212.ts
+#DESCRIPTION [ AF ] Super SPORT 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20213.ts
+#DESCRIPTION [ AF ] Sunnah TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20214.ts
+#DESCRIPTION [ AF ] Sudan TV1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20215.ts
+#DESCRIPTION [ AF ] STV2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20216.ts
+#DESCRIPTION [ AF ] Star Plus
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20217.ts
+#DESCRIPTION [ AF ] Star Gold TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20218.ts
+#DESCRIPTION [ AF ] somalilandnat TV ( Somali )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20219.ts
+#DESCRIPTION [ AF ] Somalia National TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20220.ts
+#DESCRIPTION [ AF ] Somali Broadcasting Corporation
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20221.ts
+#DESCRIPTION [ AF ] Somali Africa TV4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20222.ts
+#DESCRIPTION [ AF ] Smile Child TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20223.ts
+#DESCRIPTION [ AF ] SBC TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20224.ts
+#DESCRIPTION [ AF ] Saudi Quran TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20225.ts
+#DESCRIPTION [ AF ] Salvation TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20226.ts
+#DESCRIPTION [ AF ] RWANDA TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20227.ts
+#DESCRIPTION [ AF ] RTVS1 ( Congo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20228.ts
+#DESCRIPTION [ AF ] RTNC ( Congo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20229.ts
+#DESCRIPTION [ AF ] RTi2 ( Cote d'Ivoire )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20230.ts
+#DESCRIPTION [ AF ] RTi1 ( Cote d'Ivoire )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20231.ts
+#DESCRIPTION [ AF ] RTGA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20232.ts
+#DESCRIPTION [ AF ] RTG ( Guiniea )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20233.ts
+#DESCRIPTION [ AF ] RTB
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20234.ts
+#DESCRIPTION [ AF ] Royal TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20235.ts
+#DESCRIPTION [ AF ] Resurrection TV ( Ghana )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20236.ts
+#DESCRIPTION [ AF ] Rave TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20237.ts
+#DESCRIPTION [ AF ] RABY MALI TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20238.ts
+#DESCRIPTION [ AF ] Planet RTV ( South Africa )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20239.ts
+#DESCRIPTION [ AF ] PEACE TV ENGLISH
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20240.ts
+#DESCRIPTION [ AF ] ORTB TV ( Benini )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20241.ts
+#DESCRIPTION [ AF ] ORTB (with DVR)
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20242.ts
+#DESCRIPTION [ AF ] Oromiyaa TV ( Ethiopia )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20243.ts
+#DESCRIPTION [ AF ] NTV2 Musique ( Mali )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20244.ts
+#DESCRIPTION [ AF ] NTV ( Uganda )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20245.ts
+#DESCRIPTION [ AF ] Novelos TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20246.ts
+#DESCRIPTION [ AF ] Nollywood Premiere French
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20247.ts
+#DESCRIPTION [ AF ] Nollywood NG
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20248.ts
+#DESCRIPTION [ AF ] Nollywood Movies Premium DVR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20249.ts
+#DESCRIPTION [ AF ] Nollywood Movies
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20250.ts
+#DESCRIPTION [ AF ] Nollywood French TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20251.ts
+#DESCRIPTION [ AF ] Nikadys TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20252.ts
+#DESCRIPTION [ AF ] NBS Uganda
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20253.ts
+#DESCRIPTION [ AF ] MUSIC TV AFRICA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20254.ts
+#DESCRIPTION [ AF ] Mfm TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20255.ts
+#DESCRIPTION [ AF ] Mauritanie TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20256.ts
+#DESCRIPTION [ AF ] ManaSat MZ
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20257.ts
+#DESCRIPTION [ AF ] Manara TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20258.ts
+#DESCRIPTION [ AF ] MAISHA TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20259.ts
+#DESCRIPTION [ AF ] LoveWorldSAT ( South Africa )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20260.ts
+#DESCRIPTION [ AF ] Liberte TV ( Mali )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20261.ts
+#DESCRIPTION [ AF ] KTN TV ( Somalia )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20262.ts
+#DESCRIPTION [ AF ] Kedu TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20263.ts
+#DESCRIPTION [ AF ] Jubbaland TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20264.ts
+#DESCRIPTION [ AF ] ISLAM CHANNEL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20265.ts
+#DESCRIPTION [ AF ] Info Burkina
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20266.ts
+#DESCRIPTION [ AF ] Impact TV ( Burkina Faso )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20267.ts
+#DESCRIPTION [ AF ] HCT
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20268.ts
+#DESCRIPTION [ AF ] GTV SPORTS PLUS ( Ghana )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20269.ts
+#DESCRIPTION [ AF ] GTV ( Ghana )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20270.ts
+#DESCRIPTION [ AF ] GRTS TV ( Gambia )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20271.ts
+#DESCRIPTION [ AF ] GOLF TV BENIN
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20272.ts
+#DESCRIPTION [ AF ] Gambia TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20273.ts
+#DESCRIPTION [ AF ] Gabon TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20274.ts
+#DESCRIPTION [ AF ] GABON 24 TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20275.ts
+#DESCRIPTION [ AF ] Fusion Plus TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20276.ts
+#DESCRIPTION [ AF ] Frenchwood TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20277.ts
+#DESCRIPTION [ AF ] Frenchwood Plus
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20278.ts
+#DESCRIPTION [ AF ] Freedom TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20279.ts
+#DESCRIPTION [ AF ] Foulbe TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20280.ts
+#DESCRIPTION [ AF ] Fashion One TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20281.ts
+#DESCRIPTION [ AF ] EWTN Africa & India
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20282.ts
+#DESCRIPTION [ AF ] Evasion TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20283.ts
+#DESCRIPTION [ AF ] ETV Network Africa
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20284.ts
+#DESCRIPTION [ AF ] ESPACE TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20285.ts
+#DESCRIPTION [ AF ] Eri-TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20286.ts
+#DESCRIPTION [ AF ] Emmanuel TV ( Nigeria )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20287.ts
+#DESCRIPTION [ AF ] EDEN TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20288.ts
+#DESCRIPTION [ AF ] Dunamis tv ( Nigeria )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20289.ts
+#DESCRIPTION [ AF ] Dove TÃ©lÃ©vision ( Nigeria )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20290.ts
+#DESCRIPTION [ AF ] Divine Truth (WRS) ( South Africa )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20291.ts
+#DESCRIPTION [ AF ] Digital Congo TV ( Congo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20292.ts
+#DESCRIPTION [ AF ] Crtv  ( Cameroun )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20293.ts
+#DESCRIPTION [ AF ] Cnbc Africa ( South Africa )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20294.ts
+#DESCRIPTION [ AF ] Cine Stream TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20295.ts
+#DESCRIPTION [ AF ] Cine Plus Africa ( Ghana )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20296.ts
+#DESCRIPTION [ AF ] CINE AFRIKA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20297.ts
+#DESCRIPTION [ AF ] Church Channel TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20298.ts
+#DESCRIPTION [ AF ] Christian  TV ( RTV )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20299.ts
+#DESCRIPTION [ AF ] Cherifa TV ( Mali )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20300.ts
+#DESCRIPTION [ AF ] Channels Television ( Nigeria )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20301.ts
+#DESCRIPTION [ AF ] Centra Afrique TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20302.ts
+#DESCRIPTION [ AF ] Canal2 Info
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20303.ts
+#DESCRIPTION [ AF ] Canal 3 TV ( Niger )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20304.ts
+#DESCRIPTION [ AF ] Canal 225 TV ( Benin )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20305.ts
+#DESCRIPTION [ AF ] Canal 2 Musique
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20306.ts
+#DESCRIPTION [ AF ] Canal 2 Movies
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20307.ts
+#DESCRIPTION [ AF ] Canal 2 International
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20308.ts
+#DESCRIPTION [ AF ] CAM NEWS 24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20309.ts
+#DESCRIPTION [ AF ] BOOM TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20310.ts
+#DESCRIPTION [ AF ] Bollywood TV ( B4U )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20311.ts
+#DESCRIPTION [ AF ] Bollywood TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20312.ts
+#DESCRIPTION [ AF ] BF1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20313.ts
+#DESCRIPTION [ AF ] BET TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20314.ts
+#DESCRIPTION [ AF ] Ben TV ( Nigeria )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20315.ts
+#DESCRIPTION [ AF ] BEN TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20316.ts
+#DESCRIPTION [ AF ] BB24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20317.ts
+#DESCRIPTION [ AF ] B-ONE TV ( Congo )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20318.ts
+#DESCRIPTION [ AF ] ATV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20319.ts
+#DESCRIPTION [ AF ] ALL MUSIC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20320.ts
+#DESCRIPTION [ AF ] Al Quraan Al Kareem TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20321.ts
+#DESCRIPTION [ AF ] Al Jazeera News Channel ( Arabic  )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20322.ts
+#DESCRIPTION [ AF ] AIT INTERNATIONAL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20323.ts
+#DESCRIPTION [ AF ] Afro Music HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20324.ts
+#DESCRIPTION [ AF ] Afrique Media
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20325.ts
+#DESCRIPTION [ AF ] African Movie Channel
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20326.ts
+#DESCRIPTION [ AF ] Africa TV 4
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20327.ts
+#DESCRIPTION [ AF ] Africa TV 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20328.ts
+#DESCRIPTION [ AF ] Africa TV 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20329.ts
+#DESCRIPTION [ AF ] Africa TV 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20330.ts
+#DESCRIPTION [ AF ] Africa Trance
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20331.ts
+#DESCRIPTION [ AF ] Africa News Network 7 ( South Africa )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20332.ts
+#DESCRIPTION [ AF ] Africa Cable TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20333.ts
+#DESCRIPTION [ AF ] AF: RTI2 (With DVR)
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20334.ts
+#DESCRIPTION [ AF ] ADOM TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20335.ts
+#DESCRIPTION [ AF ] ADBN ( South Africa )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20336.ts
+#DESCRIPTION [ AF ] Aci TV ( OM5 TV )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20337.ts
+#DESCRIPTION [ AF ] ACBN International
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20338.ts
+#DESCRIPTION [ AF ] Abu Dhabi TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20339.ts
+#DESCRIPTION [ AF ] Abidjan TV ( Cote dâ€™ivoire )
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20340.ts
+#DESCRIPTION [ AF ] A Plus Africa
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20341.ts
+#DESCRIPTION [ AF ] 3 Stones TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20342.ts
+#DESCRIPTION [ AF ] 2M Monde
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20482.ts
+#DESCRIPTION [ SN ] Walf TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20483.ts
+#DESCRIPTION [ SN ] TOUBA TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20484.ts
+#DESCRIPTION [ SN ] TOUBA MONDE BI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20485.ts
+#DESCRIPTION [ SN ] Tfm Regional
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20486.ts
+#DESCRIPTION [ SN ] TFM OLE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20487.ts
+#DESCRIPTION [ SN ] TFM INFO
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20488.ts
+#DESCRIPTION [ SN ] Tfm
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20489.ts
+#DESCRIPTION [ SN ] TELEECOLE
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20490.ts
+#DESCRIPTION [ SN ] SenTV HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20491.ts
+#DESCRIPTION [ SN ] RTS2 (SN2)
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20492.ts
+#DESCRIPTION [ SN ] RTS1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20493.ts
+#DESCRIPTION [ SN ] QACAIDTV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20494.ts
+#DESCRIPTION [ SN ] Musique et Mode
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20495.ts
+#DESCRIPTION [ SN ] MUSICTV SENEGAL
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20496.ts
+#DESCRIPTION [ SN ] Mouride tv
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20497.ts
+#DESCRIPTION [ SN ] MOURCHID TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20498.ts
+#DESCRIPTION [ SN ] LSC TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20499.ts
+#DESCRIPTION [ SN ] Lamp Fall TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20500.ts
+#DESCRIPTION [ SN ] DTV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20501.ts
+#DESCRIPTION [ SN ] Diaspora24
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20502.ts
+#DESCRIPTION [ SN ] Dakar TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20503.ts
+#DESCRIPTION [ SN ] Cinema Senegal
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20504.ts
+#DESCRIPTION [ SN ] BICHRI TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20505.ts
+#DESCRIPTION [ SN ] Bantamba TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20506.ts
+#DESCRIPTION [ SN ] Almouridiyyah TV - Français & Wolof with DVR
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20507.ts
+#DESCRIPTION [ SN ] Almouridiyyah TV - Français & Wolof
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20508.ts
+#DESCRIPTION [ SN ] Almouridiyyah TV - English
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20509.ts
+#DESCRIPTION [ SN ] Almouridiyyah TV - Arabic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20510.ts
+#DESCRIPTION [ SN ] Almouridiyyah TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20511.ts
+#DESCRIPTION [ SN ] ALAZHARTOUBA TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20512.ts
+#DESCRIPTION [ SN ] Al Amine TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20513.ts
+#DESCRIPTION [ SN ] 2STV (With DVR)
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20514.ts
+#DESCRIPTION [ SN ] 2STV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20515.ts
+#DESCRIPTION [ SN ] 2Si Racines
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20516.ts
+#DESCRIPTION [ SN ] 2s Sports
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/20887.ts
+#DESCRIPTION ---- < MUSICA > ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21064.ts
+#DESCRIPTION [RADIO] Radio 101
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21038.ts
+#DESCRIPTION [RADIO] Radio SRF 1 Gr
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21063.ts
+#DESCRIPTION [RADIO] Radio Capital
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21039.ts
+#DESCRIPTION [RADIO] Radio SRF 1 Bs
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21062.ts
+#DESCRIPTION [RADIO] Radio Couleur 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21047.ts
+#DESCRIPTION [RADIO] Radio Rete 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21061.ts
+#DESCRIPTION [RADIO] Radio DeeJay
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21040.ts
+#DESCRIPTION [RADIO] Radio SRF 1 Be Fr Vs
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21060.ts
+#DESCRIPTION [RADIO] Radio Disco
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21052.ts
+#DESCRIPTION [RADIO] Radio MC2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21058.ts
+#DESCRIPTION [RADIO] Radio Fiume Ticino
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21042.ts
+#DESCRIPTION [RADIO] Radio SRF 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21056.ts
+#DESCRIPTION [RADIO] Radio Italia SMI
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21055.ts
+#DESCRIPTION [RADIO] Radio Kiss Kiss
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21053.ts
+#DESCRIPTION [RADIO] Radio Mater
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21059.ts
+#DESCRIPTION [RADIO] Radio Espace
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21049.ts
+#DESCRIPTION [RADIO] Radio Rete 1
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21050.ts
+#DESCRIPTION [RADIO] Radio Option Musik
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21041.ts
+#DESCRIPTION [RADIO] Radio SRF 1 AG SO
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21043.ts
+#DESCRIPTION [RADIO] Radio Rumantsch
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21057.ts
+#DESCRIPTION [RADIO] Radio Ibiza
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21036.ts
+#DESCRIPTION [RADIO] Radio SRF 1 Sg
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21035.ts
+#DESCRIPTION [RADIO] Radio SRF 1 Zh Sh
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21034.ts
+#DESCRIPTION [RADIO] Radio SRF 2 Kultur
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21033.ts
+#DESCRIPTION [RADIO] Radio SRF 3
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21037.ts
+#DESCRIPTION [RADIO] Radio SRF 1 Lu
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21054.ts
+#DESCRIPTION [RADIO] Radio M Due O
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21031.ts
+#DESCRIPTION [RADIO] Radio SRF Musikwelle
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21030.ts
+#DESCRIPTION [RADIO] Radio Swiss Classic
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21029.ts
+#DESCRIPTION [RADIO] Radio Swiss Classica
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21032.ts
+#DESCRIPTION [RADIO] Radio SRF 4 News
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21051.ts
+#DESCRIPTION [RADIO] Radio Onda D'urto
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21027.ts
+#DESCRIPTION [RADIO] Radio Swiss Jazz
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21026.ts
+#DESCRIPTION [RADIO] Radio Swiss Pop
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21028.ts
+#DESCRIPTION [RADIO] Radio Swiss Classique
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21048.ts
+#DESCRIPTION [RADIO] Radio Rete 2
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21024.ts
+#DESCRIPTION [RADIO] Radio Virus
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21025.ts
+#DESCRIPTION [RADIO] Radio Virgin
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21046.ts
+#DESCRIPTION [RADIO] Radio RSF In Blu
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21023.ts
+#DESCRIPTION [RADIO] Radio Zeta Italiana
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21045.ts
+#DESCRIPTION [RADIO] Radio RTL 102
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21044.ts
+#DESCRIPTION [RADIO] Radio RTS 1  Ere
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21022.ts
+#DESCRIPTION [MUSICA] M2o
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21015.ts
+#DESCRIPTION [MUSICA] RTL 102.5 TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21021.ts
+#DESCRIPTION [MUSICA] MTV Brand New
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21020.ts
+#DESCRIPTION [MUSICA] MTV Dance
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21019.ts
+#DESCRIPTION [MUSICA] MTV Hits
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21018.ts
+#DESCRIPTION [MUSICA] MTV Music
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21017.ts
+#DESCRIPTION [MUSICA] MTV Rocks
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21016.ts
+#DESCRIPTION [MUSICA] Radio Capital TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3A//lucky.lts1.net%3A23000/live/roxy/BWVqWQKvfS/21014.ts
+#DESCRIPTION [MUSICA] VH 1
