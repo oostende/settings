@@ -1,0 +1,1201 @@
+#NAME *** Ostende Tv ***
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/12.ts
+#DESCRIPTION Bein Sport HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/13.ts
+#DESCRIPTION Bein Sport HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/14.ts
+#DESCRIPTION Bein Sport HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/867.ts
+#DESCRIPTION Bein Sport HD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/864.ts
+#DESCRIPTION Bein Sport HD 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/911.ts
+#DESCRIPTION Bein Sport HD 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/912.ts
+#DESCRIPTION Bein Sport HD 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/874.ts
+#DESCRIPTION Bein Sport HD 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/873.ts
+#DESCRIPTION Bein Sport HD 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/910.ts
+#DESCRIPTION Bein Sport HD 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/866.ts
+#DESCRIPTION Bein Sport HD 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/870.ts
+#DESCRIPTION Bein Sport HD 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/872.ts
+#DESCRIPTION Bein Sport HD 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/869.ts
+#DESCRIPTION Bein Sport HD 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/868.ts
+#DESCRIPTION Bein Sport HD 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/507.ts
+#DESCRIPTION Bein Sport 1 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/508.ts
+#DESCRIPTION Bein Sport 2 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/906.ts
+#DESCRIPTION Bein Sport 3 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8000.ts
+#DESCRIPTION Cine Frisson - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8001.ts
+#DESCRIPTION Canal plus Serie - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8002.ts
+#DESCRIPTION Canal Plus Family - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8003.ts
+#DESCRIPTION Canal Plus Decale - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8004.ts
+#DESCRIPTION Canal plus sport - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8005.ts
+#DESCRIPTION Canal Plus - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8006.ts
+#DESCRIPTION Canal Plus Cinema - H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1.ts
+#DESCRIPTION Tunisie NAT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/2.ts
+#DESCRIPTION Tunisie NAT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/3.ts
+#DESCRIPTION El Hiwar Ettounsi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1003.ts
+#DESCRIPTION Attasi3a TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5.ts
+#DESCRIPTION Nessma Rouge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6.ts
+#DESCRIPTION Hannibal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6081.ts
+#DESCRIPTION Telvzatv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/828.ts
+#DESCRIPTION First TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/8.ts
+#DESCRIPTION Tunisna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7.ts
+#DESCRIPTION Al Janoubia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/85.ts
+#DESCRIPTION Al Mustaquilla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5065.ts
+#DESCRIPTION M Tunisia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1004.ts
+#DESCRIPTION Al Amaken Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/103.ts
+#DESCRIPTION TNN Tunisia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/9.ts
+#DESCRIPTION Zaitouna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/890.ts
+#DESCRIPTION Al Insen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5041.ts
+#DESCRIPTION TF1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/714.ts
+#DESCRIPTION TF1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/104.ts
+#DESCRIPTION M6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/303.ts
+#DESCRIPTION FR2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/302.ts
+#DESCRIPTION FR3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/313.ts
+#DESCRIPTION FR4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/304.ts
+#DESCRIPTION FR5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/305.ts
+#DESCRIPTION FR O
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5054.ts
+#DESCRIPTION FR O HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1032.ts
+#DESCRIPTION HD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/315.ts
+#DESCRIPTION W9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/997.ts
+#DESCRIPTION 6ter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/311.ts
+#DESCRIPTION D17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/308.ts
+#DESCRIPTION D8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6001.ts
+#DESCRIPTION Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/800.ts
+#DESCRIPTION Canal Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/801.ts
+#DESCRIPTION Canal Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/919.ts
+#DESCRIPTION Canal Plus Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/930.ts
+#DESCRIPTION Canal Plus Decale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/916.ts
+#DESCRIPTION Canal Plus Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/306.ts
+#DESCRIPTION Canal Plus Series HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/920.ts
+#DESCRIPTION Cine plus Premier HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/921.ts
+#DESCRIPTION Cine Emotion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/941.ts
+#DESCRIPTION Cine Plus Frisson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/960.ts
+#DESCRIPTION OCS Choc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/824.ts
+#DESCRIPTION OCS City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5045.ts
+#DESCRIPTION OCS Geant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5044.ts
+#DESCRIPTION OCS Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7032.ts
+#DESCRIPTION Action FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7033.ts
+#DESCRIPTION Cine Polar FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7034.ts
+#DESCRIPTION Cine FX FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5087.ts
+#DESCRIPTION Disney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/861.ts
+#DESCRIPTION Disney HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1005.ts
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/899.ts
+#DESCRIPTION Disney XD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/907.ts
+#DESCRIPTION Cartoon Network FR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/999.ts
+#DESCRIPTION Canal J
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1103.ts
+#DESCRIPTION Gulli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1008.ts
+#DESCRIPTION TeleToon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5055.ts
+#DESCRIPTION Game One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1093.ts
+#DESCRIPTION Animaux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1097.ts
+#DESCRIPTION Chasse et Peche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/908.ts
+#DESCRIPTION Ushuaia TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/943.ts
+#DESCRIPTION Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/909.ts
+#DESCRIPTION Discovery Science FR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/898.ts
+#DESCRIPTION National Geo FR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/914.ts
+#DESCRIPTION National Geo Wild FR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1094.ts
+#DESCRIPTION Tout Histoire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/902.ts
+#DESCRIPTION Voyage HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/917.ts
+#DESCRIPTION Planet AE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7051.ts
+#DESCRIPTION Planet Ci FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/901.ts
+#DESCRIPTION Planet Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1144.ts
+#DESCRIPTION Science et Vie TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/979.ts
+#DESCRIPTION RMC Decouvert
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1100.ts
+#DESCRIPTION Trek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/944.ts
+#DESCRIPTION Teva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/978.ts
+#DESCRIPTION Comedie Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/900.ts
+#DESCRIPTION SyFy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7009.ts
+#DESCRIPTION Infosport FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/915.ts
+#DESCRIPTION EuroSport HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/905.ts
+#DESCRIPTION EuroSport HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/903.ts
+#DESCRIPTION Foot Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1027.ts
+#DESCRIPTION Golf Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5042.ts
+#DESCRIPTION AB Moteurs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/803.ts
+#DESCRIPTION Equidia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/300.ts
+#DESCRIPTION Equidia Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/309.ts
+#DESCRIPTION Equipe 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/945.ts
+#DESCRIPTION BFM Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/299.ts
+#DESCRIPTION BFM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1147.ts
+#DESCRIPTION LCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5046.ts
+#DESCRIPTION LCP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1146.ts
+#DESCRIPTION Itele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5043.ts
+#DESCRIPTION M6 Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1025.ts
+#DESCRIPTION MTV Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/946.ts
+#DESCRIPTION MTV France
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1023.ts
+#DESCRIPTION MTV Idole
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/876.ts
+#DESCRIPTION MTV Lebanon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1024.ts
+#DESCRIPTION Non Stop People HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/297.ts
+#DESCRIPTION NRJ 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5051.ts
+#DESCRIPTION Numero 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5053.ts
+#DESCRIPTION Cherie 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/301.ts
+#DESCRIPTION ARTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1026.ts
+#DESCRIPTION 13 Eme Rue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1098.ts
+#DESCRIPTION AB1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/998.ts
+#DESCRIPTION June
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5048.ts
+#DESCRIPTION NT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/951.ts
+#DESCRIPTION Paris Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1096.ts
+#DESCRIPTION RTL 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/996.ts
+#DESCRIPTION Serie Club HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/298.ts
+#DESCRIPTION TMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5083.ts
+#DESCRIPTION TMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/948.ts
+#DESCRIPTION RTS Deux HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/947.ts
+#DESCRIPTION RTS UN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7003.ts
+#DESCRIPTION La  Une
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7004.ts
+#DESCRIPTION La Deux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7005.ts
+#DESCRIPTION La troi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7047.ts
+#DESCRIPTION Fatafeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/30.ts
+#DESCRIPTION MBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/31.ts
+#DESCRIPTION MBC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/32.ts
+#DESCRIPTION MBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/33.ts
+#DESCRIPTION MBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/34.ts
+#DESCRIPTION MBC Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/35.ts
+#DESCRIPTION MBC Bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/36.ts
+#DESCRIPTION MBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7036.ts
+#DESCRIPTION MBC drama US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/37.ts
+#DESCRIPTION MBC Masr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/802.ts
+#DESCRIPTION MBC Masr 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/38.ts
+#DESCRIPTION MBC MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1060.ts
+#DESCRIPTION Bein Movie 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1058.ts
+#DESCRIPTION Bein Movie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1057.ts
+#DESCRIPTION Bein Movie 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/26.ts
+#DESCRIPTION Bein Movie 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/40.ts
+#DESCRIPTION ART Aflem 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/41.ts
+#DESCRIPTION ART Aflem 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/409.ts
+#DESCRIPTION ART Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/408.ts
+#DESCRIPTION ART Hikayat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/407.ts
+#DESCRIPTION ART Hikayat Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/260.ts
+#DESCRIPTION Nile TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/131.ts
+#DESCRIPTION Nile Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/68.ts
+#DESCRIPTION Nile Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/820.ts
+#DESCRIPTION Nile Culture
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/69.ts
+#DESCRIPTION Nile Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/70.ts
+#DESCRIPTION Nile Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/259.ts
+#DESCRIPTION Nile Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/133.ts
+#DESCRIPTION Nile News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/134.ts
+#DESCRIPTION Nile Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/117.ts
+#DESCRIPTION Panorama Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/115.ts
+#DESCRIPTION Panorama Drama 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/836.ts
+#DESCRIPTION Panorama Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1140.ts
+#DESCRIPTION Panorama Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5062.ts
+#DESCRIPTION Rotana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/45.ts
+#DESCRIPTION Rotana Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5061.ts
+#DESCRIPTION Rotana Cinema KSA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/44.ts
+#DESCRIPTION Rotana Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/135.ts
+#DESCRIPTION Rotana Clip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/42.ts
+#DESCRIPTION Rotana Masria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/43.ts
+#DESCRIPTION Rotana Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/22.ts
+#DESCRIPTION CBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/255.ts
+#DESCRIPTION CBC Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/256.ts
+#DESCRIPTION CBC Sofra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/23.ts
+#DESCRIPTION CBC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/254.ts
+#DESCRIPTION CBC Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/401.ts
+#DESCRIPTION Qatar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/28.ts
+#DESCRIPTION LBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/823.ts
+#DESCRIPTION LDC Lebanon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/959.ts
+#DESCRIPTION Lebanon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1051.ts
+#DESCRIPTION LTC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/146.ts
+#DESCRIPTION NBN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/80.ts
+#DESCRIPTION Abu Dhabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/931.ts
+#DESCRIPTION Dream 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/853.ts
+#DESCRIPTION Dubai Al oula
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/111.ts
+#DESCRIPTION Dubai One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/923.ts
+#DESCRIPTION Dubai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/928.ts
+#DESCRIPTION Noor Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/54.ts
+#DESCRIPTION Abu Dhabi Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/74.ts
+#DESCRIPTION Zee Aflem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/48.ts
+#DESCRIPTION Zee Alwen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1133.ts
+#DESCRIPTION Zee Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7050.ts
+#DESCRIPTION Barraem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7049.ts
+#DESCRIPTION Bein Jeem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7048.ts
+#DESCRIPTION Bein Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/65.ts
+#DESCRIPTION Cartoon Network AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/904.ts
+#DESCRIPTION Koky Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1017.ts
+#DESCRIPTION Kidzinia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5060.ts
+#DESCRIPTION Majd Kids TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1066.ts
+#DESCRIPTION Micky Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/842.ts
+#DESCRIPTION Mody Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/49.ts
+#DESCRIPTION SpaceToon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/73.ts
+#DESCRIPTION Touyour Al Jannah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/970.ts
+#DESCRIPTION SemSem Kids TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/50.ts
+#DESCRIPTION Touyour Baby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1047.ts
+#DESCRIPTION Almajd Space
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/805.ts
+#DESCRIPTION Al Arabia Hadath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/87.ts
+#DESCRIPTION Al Sharqiya News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6073.ts
+#DESCRIPTION ANN Arab News Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/119.ts
+#DESCRIPTION ANN Irak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/113.ts
+#DESCRIPTION BBC Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/121.ts
+#DESCRIPTION BBC World News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/891.ts
+#DESCRIPTION CNBC Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5059.ts
+#DESCRIPTION CNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7043.ts
+#DESCRIPTION DWT Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/845.ts
+#DESCRIPTION Dzair News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/335.ts
+#DESCRIPTION Echourouk News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/848.ts
+#DESCRIPTION EuroNews Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/53.ts
+#DESCRIPTION Al Arabia News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/719.ts
+#DESCRIPTION Bein News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/875.ts
+#DESCRIPTION Sky News Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/52.ts
+#DESCRIPTION JSC Documentaire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/812.ts
+#DESCRIPTION JSC Mubasher Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/348.ts
+#DESCRIPTION JSC News Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/334.ts
+#DESCRIPTION JSC News English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/332.ts
+#DESCRIPTION JSC News USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1150.ts
+#DESCRIPTION Numidia News TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/938.ts
+#DESCRIPTION Al Iraqia News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/79.ts
+#DESCRIPTION Abu Dhabi Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/865.ts
+#DESCRIPTION Abu Dhabi Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/857.ts
+#DESCRIPTION Ahly Sport TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/954.ts
+#DESCRIPTION Al Hadath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/966.ts
+#DESCRIPTION Al Haddaf TV Algerie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/852.ts
+#DESCRIPTION Al Nahar Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/276.ts
+#DESCRIPTION Alriayadia Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6080.ts
+#DESCRIPTION Bein Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6067.ts
+#DESCRIPTION Dubai Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/927.ts
+#DESCRIPTION Dubai Racing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/274.ts
+#DESCRIPTION Dubai Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/839.ts
+#DESCRIPTION Dubai Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/841.ts
+#DESCRIPTION Jordan Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/887.ts
+#DESCRIPTION Kuwait Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6078.ts
+#DESCRIPTION Iraqia Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/342.ts
+#DESCRIPTION Saudi Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/925.ts
+#DESCRIPTION Tele Liban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1151.ts
+#DESCRIPTION Zaytouna Hedaya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/257.ts
+#DESCRIPTION Wanasa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1090.ts
+#DESCRIPTION Rahma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6010.ts
+#DESCRIPTION Saudi Coran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/345.ts
+#DESCRIPTION Saudi Masjed Nabawi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7038.ts
+#DESCRIPTION noure lsham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1114.ts
+#DESCRIPTION Al Anis TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/956.ts
+#DESCRIPTION Al Anwar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1085.ts
+#DESCRIPTION NOOR JORDAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/404.ts
+#DESCRIPTION Al Majd 3 Coran TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/323.ts
+#DESCRIPTION Al Nas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1092.ts
+#DESCRIPTION Al Resala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/804.ts
+#DESCRIPTION ALFATH Quran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/967.ts
+#DESCRIPTION Dzair Jannah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6069.ts
+#DESCRIPTION Fujairah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/154.ts
+#DESCRIPTION Iqra TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1016.ts
+#DESCRIPTION Algerie Coran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1048.ts
+#DESCRIPTION Ahl Coran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1107.ts
+#DESCRIPTION Tanasoh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1139.ts
+#DESCRIPTION Al Rafiden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/76.ts
+#DESCRIPTION 2M Maroc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1072.ts
+#DESCRIPTION 2M National
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/56.ts
+#DESCRIPTION Al  Maghribia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/879.ts
+#DESCRIPTION Al Aoula Inter Laayoun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/825.ts
+#DESCRIPTION AL Djazairia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/847.ts
+#DESCRIPTION Al Magharibia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/55.ts
+#DESCRIPTION Al Oula Maroc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/95.ts
+#DESCRIPTION Algeria 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/72.ts
+#DESCRIPTION Algeria Tamazigh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/405.ts
+#DESCRIPTION Assadissa Maroc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/862.ts
+#DESCRIPTION Baghdad TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/880.ts
+#DESCRIPTION Baghdadia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/863.ts
+#DESCRIPTION Baghdadia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/973.ts
+#DESCRIPTION Bzaf TV Algerie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/860.ts
+#DESCRIPTION Canal Algerie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6068.ts
+#DESCRIPTION Dzair 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6075.ts
+#DESCRIPTION Dzair TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1129.ts
+#DESCRIPTION Echorouk benna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/402.ts
+#DESCRIPTION Ennahar Algeria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/990.ts
+#DESCRIPTION ENTV Algerie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/957.ts
+#DESCRIPTION Echorouk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/939.ts
+#DESCRIPTION Jazairia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/889.ts
+#DESCRIPTION KBC Algeria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1113.ts
+#DESCRIPTION Magharibia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/830.ts
+#DESCRIPTION Medi 1 Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/834.ts
+#DESCRIPTION Tamazigh Maroc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/882.ts
+#DESCRIPTION Taha Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1069.ts
+#DESCRIPTION 4 Shabab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1148.ts
+#DESCRIPTION Aden Yamen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7039.ts
+#DESCRIPTION africa24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/81.ts
+#DESCRIPTION Aghani TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/933.ts
+#DESCRIPTION Aghanina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/985.ts
+#DESCRIPTION Ajmen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/82.ts
+#DESCRIPTION Ajyal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1061.ts
+#DESCRIPTION Al Ahd Iraq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1145.ts
+#DESCRIPTION Al Anbar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7040.ts
+#DESCRIPTION Al Aqsa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1074.ts
+#DESCRIPTION Al Askandaria TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1142.ts
+#DESCRIPTION Al Assema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/809.ts
+#DESCRIPTION Al Chourouk Sudan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/330.ts
+#DESCRIPTION Al Dafra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7041.ts
+#DESCRIPTION Al Diwan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1086.ts
+#DESCRIPTION Al Etejah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7042.ts
+#DESCRIPTION Al Haqiqa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/831.ts
+#DESCRIPTION Al Hayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/338.ts
+#DESCRIPTION Al Hayat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/21.ts
+#DESCRIPTION Al hayat Muslsalat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/321.ts
+#DESCRIPTION Al Hayat Wal Nas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/924.ts
+#DESCRIPTION Al Hurra TV Iraq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/932.ts
+#DESCRIPTION Al Iraquia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1073.ts
+#DESCRIPTION AL KAHERA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/89.ts
+#DESCRIPTION Al Kanal Egypt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/328.ts
+#DESCRIPTION Al Mada Irak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/837.ts
+#DESCRIPTION Al Masrawia Aflem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/84.ts
+#DESCRIPTION Al Masria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/90.ts
+#DESCRIPTION Al Mayadeen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/337.ts
+#DESCRIPTION Al Nahar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/341.ts
+#DESCRIPTION Al Nahar Alyawm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1135.ts
+#DESCRIPTION Al Nahar Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/59.ts
+#DESCRIPTION Al Nahar Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/972.ts
+#DESCRIPTION Al Nahar Laki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/310.ts
+#DESCRIPTION Al Nahar Noor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1091.ts
+#DESCRIPTION AL Nahar One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/961.ts
+#DESCRIPTION Al Nahar plus 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/856.ts
+#DESCRIPTION Al Quds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/935.ts
+#DESCRIPTION Al Rai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/986.ts
+#DESCRIPTION Al Rasheed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1034.ts
+#DESCRIPTION Al Rayyan HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1080.ts
+#DESCRIPTION Al Shabab TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1088.ts
+#DESCRIPTION Al Shahed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6072.ts
+#DESCRIPTION Al Sharqiya HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/88.ts
+#DESCRIPTION Al Sumaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/307.ts
+#DESCRIPTION Al Thanya Masria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7046.ts
+#DESCRIPTION al Thaqafiah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1067.ts
+#DESCRIPTION Al Waha Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/94.ts
+#DESCRIPTION Alan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5057.ts
+#DESCRIPTION Alasr TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1011.ts
+#DESCRIPTION AlEKhbaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1049.ts
+#DESCRIPTION Aleqtisadiah KSA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/99.ts
+#DESCRIPTION Aljadeed Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/329.ts
+#DESCRIPTION Alnoor TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1116.ts
+#DESCRIPTION Alsa3eed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1128.ts
+#DESCRIPTION AlSaeedah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1055.ts
+#DESCRIPTION Alshallal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1136.ts
+#DESCRIPTION Altaghier Iraq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1012.ts
+#DESCRIPTION Althaqafiah KSA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/406.ts
+#DESCRIPTION Arabica Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/883.ts
+#DESCRIPTION Arrabia Maroc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1106.ts
+#DESCRIPTION Azhari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/331.ts
+#DESCRIPTION B4U Aflem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/814.ts
+#DESCRIPTION B4U Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/859.ts
+#DESCRIPTION Baynouna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5058.ts
+#DESCRIPTION BELQEES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1053.ts
+#DESCRIPTION BerberTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/962.ts
+#DESCRIPTION Beur TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/346.ts
+#DESCRIPTION Blaad Al hramein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/410.ts
+#DESCRIPTION Blue Nile TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/63.ts
+#DESCRIPTION Cairo Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/64.ts
+#DESCRIPTION Cairo Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/109.ts
+#DESCRIPTION Cima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/295.ts
+#DESCRIPTION Cine Majestic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1099.ts
+#DESCRIPTION Cinema Pro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/897.ts
+#DESCRIPTION DardaNile TV Sudan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1054.ts
+#DESCRIPTION Delta Egypte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1079.ts
+#DESCRIPTION Dijla TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6076.ts
+#DESCRIPTION Dubai Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/980.ts
+#DESCRIPTION EBC Ethiopia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/992.ts
+#DESCRIPTION EBC3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5001.ts
+#DESCRIPTION ECBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1143.ts
+#DESCRIPTION El Bilad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1018.ts
+#DESCRIPTION Elmoled
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/810.ts
+#DESCRIPTION Emarat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/981.ts
+#DESCRIPTION ERI TV Eritrea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/106.ts
+#DESCRIPTION France 24 Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/843.ts
+#DESCRIPTION Free TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1015.ts
+#DESCRIPTION FUNoon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/349.ts
+#DESCRIPTION Future TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5056.ts
+#DESCRIPTION Rotana Khalijiah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/83.ts
+#DESCRIPTION Haneen Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/963.ts
+#DESCRIPTION Hawacom TV Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/934.ts
+#DESCRIPTION Heya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1007.ts
+#DESCRIPTION Horn Cable TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/400.ts
+#DESCRIPTION Imagines Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6070.ts
+#DESCRIPTION Jordan Deretna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1071.ts
+#DESCRIPTION Jordan One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/922.ts
+#DESCRIPTION Jordan Sattelite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/918.ts
+#DESCRIPTION Jordan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/827.ts
+#DESCRIPTION Kahera Wal Nass 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/343.ts
+#DESCRIPTION Kahera Wal Nass 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/877.ts
+#DESCRIPTION Kalsan TV Somali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1063.ts
+#DESCRIPTION Kanal 4 Kurd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/858.ts
+#DESCRIPTION Karameesh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/149.ts
+#DESCRIPTION KSA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/347.ts
+#DESCRIPTION KSA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1077.ts
+#DESCRIPTION KurdSat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/855.ts
+#DESCRIPTION Libya Ahrar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1068.ts
+#DESCRIPTION Libya Almarah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/968.ts
+#DESCRIPTION LIBYA ALRASMEYA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/937.ts
+#DESCRIPTION Libya Alrasmia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/833.ts
+#DESCRIPTION Libya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/885.ts
+#DESCRIPTION Maan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1050.ts
+#DESCRIPTION Majan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1095.ts
+#DESCRIPTION Manga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1001.ts
+#DESCRIPTION Massaya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/977.ts
+#DESCRIPTION Mazzika Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/832.ts
+#DESCRIPTION Mehwer 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/403.ts
+#DESCRIPTION Melody
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1137.ts
+#DESCRIPTION Moga Comedy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1109.ts
+#DESCRIPTION Music Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/271.ts
+#DESCRIPTION Nat Geo AD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/854.ts
+#DESCRIPTION Noon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1134.ts
+#DESCRIPTION Nourmina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/936.ts
+#DESCRIPTION Oman TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6077.ts
+#DESCRIPTION ON TV LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/835.ts
+#DESCRIPTION OnTv Egypte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1141.ts
+#DESCRIPTION Oromia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/292.ts
+#DESCRIPTION OTV Lebanon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/100.ts
+#DESCRIPTION Palestine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1127.ts
+#DESCRIPTION Palestine Today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/849.ts
+#DESCRIPTION Quest Arabiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/926.ts
+#DESCRIPTION RAK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/826.ts
+#DESCRIPTION Sada Al Balad 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/339.ts
+#DESCRIPTION Sada Al Balad Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1130.ts
+#DESCRIPTION Sada El Balad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/844.ts
+#DESCRIPTION Sama 4 Shabab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1052.ts
+#DESCRIPTION TokTok Cima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/138.ts
+#DESCRIPTION Sama Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/846.ts
+#DESCRIPTION Sama TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/139.ts
+#DESCRIPTION Samira TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/884.ts
+#DESCRIPTION SANAA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1056.ts
+#DESCRIPTION Shaabiyat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/140.ts
+#DESCRIPTION Sharjah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/958.ts
+#DESCRIPTION Sens TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/942.ts
+#DESCRIPTION South Sudan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/141.ts
+#DESCRIPTION Star Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/840.ts
+#DESCRIPTION Star Cinema 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/412.ts
+#DESCRIPTION Sudan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/892.ts
+#DESCRIPTION Syria Akhbaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/896.ts
+#DESCRIPTION Syria Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/325.ts
+#DESCRIPTION Syrian Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1002.ts
+#DESCRIPTION Teeba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/976.ts
+#DESCRIPTION Ten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1062.ts
+#DESCRIPTION Ten 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1084.ts
+#DESCRIPTION Time Aflem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/822.ts
+#DESCRIPTION Time Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/47.ts
+#DESCRIPTION Time Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1087.ts
+#DESCRIPTION Time Coran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/326.ts
+#DESCRIPTION Time Taxi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1083.ts
+#DESCRIPTION Time Turki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1070.ts
+#DESCRIPTION Top Cinema TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7025.ts
+#DESCRIPTION TOP Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/10132.ts
+#DESCRIPTION TRT 6 Kurdi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1000.ts
+#DESCRIPTION TRT Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1131.ts
+#DESCRIPTION Turkmeneli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/895.ts
+#DESCRIPTION TV5 Monde Orient
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/821.ts
+#DESCRIPTION Universal Somali TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5080.ts
+#DESCRIPTION AMC HD Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5069.ts
+#DESCRIPTION Antena 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5066.ts
+#DESCRIPTION AXN ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6003.ts
+#DESCRIPTION Axn White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5074.ts
+#DESCRIPTION C Plus DCINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5073.ts
+#DESCRIPTION C Plus LIGA 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5071.ts
+#DESCRIPTION C Plus LIGA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5093.ts
+#DESCRIPTION C+ Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5097.ts
+#DESCRIPTION CALLE13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5086.ts
+#DESCRIPTION Canal Deportes 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5090.ts
+#DESCRIPTION Canal Estrenos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5085.ts
+#DESCRIPTION Canal Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5082.ts
+#DESCRIPTION Canal Hollywood HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6061.ts
+#DESCRIPTION Canal Partidazo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5077.ts
+#DESCRIPTION Canal Plus Accion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5067.ts
+#DESCRIPTION Canal Plus Comedia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5081.ts
+#DESCRIPTION Canal Plus Futbol HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6000.ts
+#DESCRIPTION Canal Serie Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6002.ts
+#DESCRIPTION Canal Toros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5098.ts
+#DESCRIPTION Canal+ Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5068.ts
+#DESCRIPTION LA 1 ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5079.ts
+#DESCRIPTION La Sexta HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5078.ts
+#DESCRIPTION Movistar F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5076.ts
+#DESCRIPTION Movistar MotoGP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6006.ts
+#DESCRIPTION NatGeo Wild Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6005.ts
+#DESCRIPTION National Geographic Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5094.ts
+#DESCRIPTION NICKELODEONHD Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5095.ts
+#DESCRIPTION Syfy Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5072.ts
+#DESCRIPTION Telecinco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5084.ts
+#DESCRIPTION TNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5089.ts
+#DESCRIPTION Viajar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5096.ts
+#DESCRIPTION Bein Max1 Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5091.ts
+#DESCRIPTION Bein max2 Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6062.ts
+#DESCRIPTION BeIN Max3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5088.ts
+#DESCRIPTION beIN Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5099.ts
+#DESCRIPTION CanalSerie_esp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6063.ts
+#DESCRIPTION COSMO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5070.ts
+#DESCRIPTION Cuatro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6064.ts
+#DESCRIPTION Eurosport1 Espagne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5075.ts
+#DESCRIPTION Fox Spain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6007.ts
+#DESCRIPTION Fox Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7035.ts
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6038.ts
+#DESCRIPTION Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/62.ts
+#DESCRIPTION Canary Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7026.ts
+#DESCRIPTION Cartoon itoItaly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6004.ts
+#DESCRIPTION Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7023.ts
+#DESCRIPTION Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6023.ts
+#DESCRIPTION Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7024.ts
+#DESCRIPTION La5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7010.ts
+#DESCRIPTION Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7022.ts
+#DESCRIPTION Mediaset Italia Due
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5092.ts
+#DESCRIPTION Mezzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7031.ts
+#DESCRIPTION Rai Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7028.ts
+#DESCRIPTION Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7027.ts
+#DESCRIPTION Rai News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6018.ts
+#DESCRIPTION Rai Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7029.ts
+#DESCRIPTION Rai Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6015.ts
+#DESCRIPTION Rai Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6016.ts
+#DESCRIPTION Rai Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7030.ts
+#DESCRIPTION Rai Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6008.ts
+#DESCRIPTION Rai1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6009.ts
+#DESCRIPTION Rai2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7018.ts
+#DESCRIPTION Rai3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6011.ts
+#DESCRIPTION Rai4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6013.ts
+#DESCRIPTION Rai5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6045.ts
+#DESCRIPTION Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/829.ts
+#DESCRIPTION Roya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6086.ts
+#DESCRIPTION Sky Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6034.ts
+#DESCRIPTION Sky Sport F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6033.ts
+#DESCRIPTION Sky Sport Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6092.ts
+#DESCRIPTION Sky Sport1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6035.ts
+#DESCRIPTION Sky Sport1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6093.ts
+#DESCRIPTION Sky Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6036.ts
+#DESCRIPTION Sky Sport2 IT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6037.ts
+#DESCRIPTION Sky Sport3 IT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6084.ts
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6094.ts
+#DESCRIPTION RTL2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7011.ts
+#DESCRIPTION Sat1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6090.ts
+#DESCRIPTION Sky Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6089.ts
+#DESCRIPTION Sky Atlantic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6082.ts
+#DESCRIPTION SKY cinema 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7019.ts
+#DESCRIPTION SKY Cinema Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6039.ts
+#DESCRIPTION Sky Cinema Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6083.ts
+#DESCRIPTION SKY Cinema24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/7012.ts
+#DESCRIPTION SKY DE Sky Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6088.ts
+#DESCRIPTION Sky Emotion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6087.ts
+#DESCRIPTION Sky Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6091.ts
+#DESCRIPTION SKYDE_SkyComedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6085.ts
+#DESCRIPTION SuperRTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1006.ts
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/949.ts
+#DESCRIPTION SRF 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/950.ts
+#DESCRIPTION SRF 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6058.ts
+#DESCRIPTION NatGeo Wild IT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/6057.ts
+#DESCRIPTION National Geo IT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/850.ts
+#DESCRIPTION SNTV Somali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/813.ts
+#DESCRIPTION Somaliland National TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/265.ts
+#DESCRIPTION Tchad TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1075.ts
+#DESCRIPTION Yamen Shabeb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1035.ts
+#DESCRIPTION Yemen Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1078.ts
+#DESCRIPTION ZAD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/982.ts
+#DESCRIPTION ESTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/1149.ts
+#DESCRIPTION Fezzan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5000.ts
+#DESCRIPTION Arabic Box Office 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5002.ts
+#DESCRIPTION Arabic Box Office 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5003.ts
+#DESCRIPTION Arabic Box Office 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5004.ts
+#DESCRIPTION Arabic Box Office 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5005.ts
+#DESCRIPTION Arabic Box Office 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5006.ts
+#DESCRIPTION Arabic Box Office 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5007.ts
+#DESCRIPTION Arabic Box Office 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5008.ts
+#DESCRIPTION Arabic Box Office 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5009.ts
+#DESCRIPTION Arabic Box Office 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5010.ts
+#DESCRIPTION Arabic Box Office 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5021.ts
+#DESCRIPTION French Box Office 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5022.ts
+#DESCRIPTION French Box Office 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5023.ts
+#DESCRIPTION French Box Office 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5024.ts
+#DESCRIPTION French Box Office 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5025.ts
+#DESCRIPTION French Box Office 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5026.ts
+#DESCRIPTION French Box Office 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5027.ts
+#DESCRIPTION French Box Office 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5028.ts
+#DESCRIPTION French Box Office 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5029.ts
+#DESCRIPTION French Box Office 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5030.ts
+#DESCRIPTION French Box Office 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5031.ts
+#DESCRIPTION US Box Office 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5032.ts
+#DESCRIPTION US Box Office 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5033.ts
+#DESCRIPTION US Box Office 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5034.ts
+#DESCRIPTION US Box Office 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5035.ts
+#DESCRIPTION US Box Office 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5036.ts
+#DESCRIPTION US Box Office 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5037.ts
+#DESCRIPTION US Box Office 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5038.ts
+#DESCRIPTION US Box Office 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5039.ts
+#DESCRIPTION US Box Office 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//fserver.livetv.tn/live/hls/c0917a61ab383d8/5040.ts
+#DESCRIPTION US Box Office 10
