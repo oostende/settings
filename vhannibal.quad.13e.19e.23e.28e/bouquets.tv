@@ -1,8 +1,6 @@
 #NAME Bouquets (TV) 
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.quran.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.prime.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.lucky.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.grand.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.live-tv.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.vh01.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.vh02.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.vh03.tv
